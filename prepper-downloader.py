@@ -1,6 +1,7 @@
 import os
 import requests
 import shutil
+import sys
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from rich.console import Console
@@ -10,10 +11,11 @@ from rich.panel import Panel
 console = Console()
 
 # --- CONFIG ---
+REPO_RAW_URL = "https://raw.githubusercontent.com/pshehane/patrick-kiwix-downloader-python/main/prepper-downloader.py"
 MIRROR_BASE = "https://ftp.fau.de/kiwix/zim/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-# Priority Catalog
+# Survival Catalog
 PRIORITIZED_CATALOG = [
     {"name": "Wikipedia (EN Maxi)", "path": "wikipedia/", "search_terms": ["wikipedia_en_all_maxi"]},
     {"name": "WikiMed (Medical)", "path": "wikipedia/", "search_terms": ["wikimed_en_all", "wikipedia_en_medicine"]},
@@ -24,9 +26,27 @@ PRIORITIZED_CATALOG = [
     {"name": "Project Gutenberg (Books)", "path": "gutenberg/", "search_terms": ["gutenberg_en_all"]}
 ]
 
+def run_self_update():
+    """Checks GitHub for a newer version of the script. Skips if offline."""
+    console.print("[dim yellow]Checking for script updates...[/dim yellow]")
+    try:
+        r = requests.get(REPO_RAW_URL, timeout=3, headers=HEADERS)
+        if r.status_code == 200:
+            current_script = sys.argv[0]
+            with open(current_script, 'r', encoding='utf-8') as f:
+                local_content = f.read()
+            
+            if r.text != local_content:
+                with open(current_script, 'w', encoding='utf-8') as f:
+                    f.write(r.text)
+                console.print(Panel("[bold green]Script Updated Successfully![/bold green]\nPlease launch the script again to use the latest version."))
+                sys.exit()
+    except (requests.exceptions.RequestException, Exception):
+        console.print("[dim red]Offline or GitHub unreachable. Skipping update.[/dim red]")
+
 def get_latest_url_and_size(dir_path, search_terms):
     try:
-        r = requests.get(f"{MIRROR_BASE}{dir_path}", headers=HEADERS, timeout=10)
+        r = requests.get(f"{MIRROR_BASE}{dir_path}", headers=HEADERS, timeout=8)
         soup = BeautifulSoup(r.text, 'html.parser')
         links = []
         for a in soup.find_all('a', href=True):
@@ -46,46 +66,52 @@ def get_latest_url_and_size(dir_path, search_terms):
     except: return None
 
 def download_file(url, dest):
-    r = requests.get(url, stream=True, headers=HEADERS)
-    total = int(r.headers.get('content-length', 0))
-    if total < 1000: return False
-    with tqdm(total=total, unit='iB', unit_scale=True, desc=os.path.basename(dest)) as pbar:
-        with open(dest, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=1024*1024):
-                f.write(chunk)
-                pbar.update(len(chunk))
-    return True
+    try:
+        r = requests.get(url, stream=True, headers=HEADERS)
+        total = int(r.headers.get('content-length', 0))
+        if total < 1000: return False
+        with tqdm(total=total, unit='iB', unit_scale=True, desc=os.path.basename(dest)) as pbar:
+            with open(dest, 'wb') as f:
+                for chunk in r.iter_content(chunk_size=1024*1024):
+                    f.write(chunk)
+                    pbar.update(len(chunk))
+        return True
+    except: return False
 
 def audit_disk(drive_path):
-    table = Table(title="[bold]Current Files on Disk[/bold]", show_lines=True)
+    table = Table(title="[bold]Drive Audit[/bold]", show_lines=True)
     table.add_column("File Name", style="cyan")
     table.add_column("Size (GB)", justify="right")
     
-    files = [f for f in os.listdir(drive_path) if f.endswith(('.zim', '.apk', '.exe', '.dmg', '.txt'))]
+    files = [f for f in os.listdir(drive_path) if f.endswith(('.zim', '.apk', '.exe', '.dmg', '.txt', '.py'))]
     for f in sorted(files):
         size = os.path.getsize(os.path.join(drive_path, f)) / (2**30)
         table.add_row(f, f"{size:.2f}")
     
     console.print(table)
     total, used, free = shutil.disk_usage(drive_path)
-    console.print(f"Total Disk: {total/(2**30):.1f}GB | [bold green]Free: {free/(2**30):.1f}GB[/bold green]")
+    console.print(f"Drive: {drive_path} | [bold green]Free: {free/(2**30):.1f}GB[/bold green]")
     return free / (2**30)
 
 def create_emergency_readme(drive_path):
     content = """# EMERGENCY INSTRUCTIONS: OFFLINE KNOWLEDGE BASE
-1. ANDROID: Install the .apk file on this drive. In Kiwix settings, select this USB drive as the 'Storage Folder'.
-2. iOS: Use the 'Files' app to open .zim files in the Kiwix app.
-3. PC/MAC: Use Kiwix Desktop to open the .zim files directly. (Installers included in /Software)
+1. ANDROID: Install 'INSTALL_Kiwix_Android_Standalone.apk'. In Kiwix settings, point to this drive.
+2. iOS: Open .zim files via the 'Files' app using the Kiwix app.
+3. PC/MAC: Installers included. Use them to open .zim files directly.
+4. UPDATER: Run 'prepper-downloader.py' (requires Python) to update this drive.
 """
     readme_path = os.path.join(drive_path, "!!!_README_FIRST_!!!.txt")
     with open(readme_path, "w") as f:
         f.write(content)
         f.flush()
-        os.fsync(f.fileno()) # Fixed: Moved inside the with block
+        os.fsync(f.fileno())
 
 def main():
-    console.print(Panel.fit("PREP-DISK COMMAND CENTER v2.2", style="bold green"))
-    drive_l = input("Enter drive letter (e.g., F): ").upper()
+    # --- AUTO UPDATE ON START ---
+    run_self_update()
+    
+    console.print(Panel.fit("PREP-DISK MASTER CONTROLLER v2.3", style="bold green"))
+    drive_l = input("Enter target drive letter (e.g., F): ").upper()
     drive_path = f"{drive_l}:\\"
 
     if not os.path.exists(drive_path):
@@ -96,19 +122,18 @@ def main():
         console.print("\n" + "="*40)
         free_gb = audit_disk(drive_path)
         
-        console.print("\n[bold yellow]Main Menu:[/bold yellow]")
-        console.print("1. [cyan]Sync/Update Knowledge[/cyan]")
-        console.print("2. [red]Delete a file[/red]")
-        console.print("3. [green]Download Android APK Installer[/green]")
-        console.print("4. [blue]Download PC/Mac Desktop Apps[/blue]")
-        console.print("5. [magenta]Generate README[/magenta]")
+        console.print("\n[bold yellow]Actions:[/bold yellow]")
+        console.print("1. [cyan]Sync Survival Knowledge[/cyan]")
+        console.print("2. [red]Delete Files[/red]")
+        console.print("3. [green]Download App Installers[/green] (Mobile & Desktop)")
+        console.print("4. [magenta]Install Updater Script to Drive[/magenta]")
         console.print("Q. [white]Safe Eject & Exit[/white]")
         
         choice = input("\nSelect: ").lower()
 
-        if choice in ['q', 'x', 'exit']:
+        if choice in ['q', 'x']:
             create_emergency_readme(drive_path)
-            console.print("[bold green]Buffers flushed. Disk ready for off-grid use.[/bold green]")
+            console.print("[bold green]System Optimized. Safe to Eject.[/bold green]")
             break
 
         elif choice == "1":
@@ -123,30 +148,31 @@ def main():
                         queue.append(data)
                         projected += data['size_gb']
 
-            if queue and input(f"Download {len(queue)} items ({projected:.1f} GB)? (y/n): ").lower() == 'y':
+            if queue and input(f"Sync {len(queue)} items ({projected:.1f} GB)? (y/n): ").lower() == 'y':
                 for item in queue:
                     download_file(item['url'], os.path.join(drive_path, item['url'].split('/')[-1]))
 
         elif choice == "2":
-            fn = input("Enter partial filename to delete: ")
+            fn = input("Partial name to delete: ")
             for f in os.listdir(drive_path):
-                if fn in f:
-                    if input(f"Delete {f}? (y/n): ").lower() == 'y':
-                        os.remove(os.path.join(drive_path, f))
+                if fn in f and input(f"Delete {f}? (y/n): ").lower() == 'y':
+                    os.remove(os.path.join(drive_path, f))
 
         elif choice == "3":
-            url = "https://download.kiwix.org/release/kiwix-android/kiwix-android-3.11.0-standalone.apk"
-            download_file(url, os.path.join(drive_path, "INSTALL_Kiwix_Android_Standalone.apk"))
+            urls = {
+                "Android": "https://download.kiwix.org/release/kiwix-android/kiwix-android-3.11.0-standalone.apk",
+                "Windows": "https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip",
+                "Mac": "https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_macos_x64.dmg"
+            }
+            for platform, url in urls.items():
+                console.print(f"[yellow]Downloading {platform} installer...[/yellow]")
+                download_file(url, os.path.join(drive_path, os.path.basename(url)))
 
         elif choice == "4":
-            win_url = "https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip"
-            mac_url = "https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_macos_x64.dmg"
-            download_file(win_url, os.path.join(drive_path, "Kiwix_Desktop_Windows.zip"))
-            download_file(mac_url, os.path.join(drive_path, "Kiwix_Desktop_Mac.dmg"))
-
-        elif choice == "5":
-            create_emergency_readme(drive_path)
-            console.print("[green]README updated.[/green]")
+            # Copy the current script to the drive for portability
+            target_script = os.path.join(drive_path, "prepper-downloader.py")
+            shutil.copy2(sys.argv[0], target_script)
+            console.print(f"[bold green]Updater script cloned to {target_script}[/bold green]")
 
 if __name__ == "__main__":
     main()

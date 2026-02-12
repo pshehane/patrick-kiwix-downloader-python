@@ -2,26 +2,265 @@
   "wikipedia_en_all_maxi": {
     "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_all_maxi_2025-08.zim",
     "size_gb": 111.0750281708315,
-    "date": "2025-08"
+    "date": "2025-08",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "wikipedia/"
   },
   "ifixit_en_all": {
     "url": "https://ftp.fau.de/kiwix/zim/ifixit/ifixit_en_all_2025-12.zim",
     "size_gb": 3.325469565577805,
-    "date": "2025-12"
+    "date": "2025-12",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "ifixit/"
   },
   "wikivoyage_en_all": {
     "url": "https://ftp.fau.de/kiwix/zim/wikivoyage/wikivoyage_en_all_nopic_2025-12.zim",
     "size_gb": 0.223501137457788,
-    "date": "2025-12"
+    "date": "2025-12",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "wikivoyage/"
   },
   "wikisource_en_all": {
     "url": "https://ftp.fau.de/kiwix/zim/wikisource/wikisource_en_all_nopic_2026-02.zim",
     "size_gb": 11.013840461149812,
-    "date": "2026-02"
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "wikisource/"
   },
   "khanacademy_en_all": {
     "url": "https://ftp.fau.de/kiwix/zim/other/khanacademy_en_all_2023-03.zim",
     "size_gb": 167.64462714642286,
-    "date": "2023-03"
+    "date": "2023-03",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "other/"
+  },
+  "wikimed_en_all_maxi": {
+    "status": "NOT_FOUND",
+    "last_checked": "2026-02-11 19:11",
+    "attempted_paths": [
+      "wikipedia/",
+      "wikipedia/",
+      "other/",
+      "stack_exchange/",
+      ""
+    ]
+  },
+  "libretexts_en_all": {
+    "status": "NOT_FOUND",
+    "last_checked": "2026-02-11 19:11",
+    "attempted_paths": [
+      "libretexts/",
+      "wikipedia/",
+      "other/",
+      "stack_exchange/",
+      ""
+    ]
+  },
+  "sustainableliving.stackexchange": {
+    "status": "NOT_FOUND",
+    "last_checked": "2026-02-11 19:11",
+    "attempted_paths": [
+      "stack_exchange/",
+      "wikipedia/",
+      "other/",
+      "stack_exchange/",
+      ""
+    ]
+  },
+  "ted_en_all": {
+    "status": "NOT_FOUND",
+    "last_checked": "2026-02-11 19:11",
+    "attempted_paths": [
+      "ted/",
+      "wikipedia/",
+      "other/",
+      "stack_exchange/",
+      ""
+    ]
+  },
+  "wikihow": {
+    "status": "MANUAL_ENTRY",
+    "last_checked": "2026-02-11 19:31"
+  },
+  "wikipedia_en_medicine_maxi": {
+    "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_medicine_maxi_2026-01.zim",
+    "size_gb": 2.0403840402141213,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "wikipedia/"
+  },
+  "libretexts.org_en_bio": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_bio_2025-01.zim",
+    "size_gb": 2.0870442762970924,
+    "date": "2025-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_chem": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_chem_2025-01.zim",
+    "size_gb": 2.0329991970211267,
+    "date": "2025-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_eng": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_eng_2025-01.zim",
+    "size_gb": 0.6318042343482375,
+    "date": "2025-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_geo": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_geo_2026-01.zim",
+    "size_gb": 1.1065200539305806,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_human": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_human_2025-01.zim",
+    "size_gb": 3.4714468084275723,
+    "date": "2025-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_med": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_med_2025-01.zim",
+    "size_gb": 1.1106648845598102,
+    "date": "2025-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_phys": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_phys_2026-01.zim",
+    "size_gb": 0.5211256938055158,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_stats": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_stats_2026-01.zim",
+    "size_gb": 0.20095999166369438,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "libretexts.org_en_math": {
+    "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_math_2026-01.zim",
+    "size_gb": 0.7735995855182409,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "libretexts/"
+  },
+  "sustainability.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sustainability.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.02546091563999653,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "woodworking.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/woodworking.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.09788723196834326,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "outdoors.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/outdoors.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.13258173130452633,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "medicalsciences.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/medicalsciences.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.05662425793707371,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "mechanics.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/mechanics.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.315565537661314,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "gardening.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/gardening.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.8617805810645223,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "earthscience.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/earthscience.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.12312164343893528,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "diy.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/diy.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 1.9101026756688952,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "astronomy.stackexchange": {
+    "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/astronomy.stackexchange.com_en_all_2026-02.zim",
+    "size_gb": 0.18251306656748056,
+    "date": "2026-02",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "stack_exchange/"
+  },
+  "ted_mul_virus": {
+    "url": "https://ftp.fau.de/kiwix/zim/ted/ted_mul_virus_2026-01.zim",
+    "size_gb": 0.7764442879706621,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "ted/"
+  },
+  "ted_mul_weather": {
+    "url": "https://ftp.fau.de/kiwix/zim/ted/ted_mul_weather_2026-01.zim",
+    "size_gb": 0.35608273930847645,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "ted/"
+  },
+  "ted_mul_wildlife": {
+    "url": "https://ftp.fau.de/kiwix/zim/ted/ted_mul_wildlife_2026-01.zim",
+    "size_gb": 0.08041359577327967,
+    "date": "2026-01",
+    "status": "SUCCESS",
+    "last_checked": "2026-02-11 19:31",
+    "search_path_used": "ted/"
   }
 }

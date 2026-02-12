@@ -1,0 +1,27 @@
+{
+  "wikipedia_en_all_maxi": {
+    "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_all_maxi_2025-08.zim",
+    "size_gb": 111.0750281708315,
+    "date": "2025-08"
+  },
+  "ifixit_en_all": {
+    "url": "https://ftp.fau.de/kiwix/zim/ifixit/ifixit_en_all_2025-12.zim",
+    "size_gb": 3.325469565577805,
+    "date": "2025-12"
+  },
+  "wikivoyage_en_all": {
+    "url": "https://ftp.fau.de/kiwix/zim/wikivoyage/wikivoyage_en_all_nopic_2025-12.zim",
+    "size_gb": 0.223501137457788,
+    "date": "2025-12"
+  },
+  "wikisource_en_all": {
+    "url": "https://ftp.fau.de/kiwix/zim/wikisource/wikisource_en_all_nopic_2026-02.zim",
+    "size_gb": 11.013840461149812,
+    "date": "2026-02"
+  },
+  "khanacademy_en_all": {
+    "url": "https://ftp.fau.de/kiwix/zim/other/khanacademy_en_all_2023-03.zim",
+    "size_gb": 167.64462714642286,
+    "date": "2023-03"
+  }
+}

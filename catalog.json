@@ -1,0 +1,19 @@
+{
+  "zim_libraries": [
+    {"name": "Wikipedia (EN Maxi)", "path": "wikipedia/", "prefix": "wikipedia_en_all_maxi", "rec": true},
+    {"name": "WikiMed (Medical)", "path": "wikipedia/", "prefix": "wikimed_en_all_maxi", "rec": true},
+    {"name": "iFixit (Repair Manuals)", "path": "ifixit/", "prefix": "ifixit_en_all", "rec": true},
+    {"name": "LibreTexts (Science)", "path": "libretexts/", "prefix": "libretexts_en_all", "rec": true},
+    {"name": "Sustainability StackExchange", "path": "stack_exchange/", "prefix": "sustainableliving.stackexchange", "rec": true},
+    {"name": "WikiVoyage (Global Travel)", "path": "wikivoyage/", "prefix": "wikivoyage_en_all", "rec": true},
+    {"name": "WikiSource (Library of Books)", "path": "wikisource/", "prefix": "wikisource_en_all", "rec": true},
+    {"name": "TED Talks", "path": "ted/", "prefix": "ted_en_all", "rec": false},
+    {"name": "Khan Academy", "path": "other/", "prefix": "khanacademy_en_all", "rec": false},
+    {"name": "WikiHow (Legacy)", "path": "MANUAL", "prefix": "wikihow", "manual_url": "https://archive.org/details/wiki-how-en", "rec": false}
+  ],
+  "software": [
+    {"name": "Android APK", "url": "https://download.kiwix.org/release/kiwix-android/kiwix-android-3.14.0-standalone.apk", "filename": "INSTALL_Kiwix_Android_Standalone.apk"},
+    {"name": "Windows Desktop", "url": "https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip", "filename": "Kiwix_Desktop_Windows.zip"},
+    {"name": "Mac Desktop", "url": "https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_macos_x64.dmg", "filename": "Kiwix_Desktop_Mac.dmg"}
+  ]
+}

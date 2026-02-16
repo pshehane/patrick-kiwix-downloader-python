@@ -1,0 +1,3963 @@
+{
+    "metadata": {
+        "last_crawled": "2026-02-16 07:01:52",
+        "total_items": 659,
+        "source": "https://ftp.fau.de/kiwix/zim/"
+    },
+    "libraries": {
+        "devdocs_en_angular": {
+            "filename": "devdocs_en_angular_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_angular_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_angular"
+        },
+        "devdocs_en_angularjs": {
+            "filename": "devdocs_en_angularjs_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_angularjs_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_angularjs"
+        },
+        "devdocs_en_ansible": {
+            "filename": "devdocs_en_ansible_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_ansible_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_ansible"
+        },
+        "devdocs_en_apache-http-server": {
+            "filename": "devdocs_en_apache-http-server_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_apache-http-server_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_apache-http-server"
+        },
+        "devdocs_en_apache-pig": {
+            "filename": "devdocs_en_apache-pig_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_apache-pig_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_apache-pig"
+        },
+        "devdocs_en_astro": {
+            "filename": "devdocs_en_astro_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_astro_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_astro"
+        },
+        "devdocs_en_async": {
+            "filename": "devdocs_en_async_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_async_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_async"
+        },
+        "devdocs_en_axios": {
+            "filename": "devdocs_en_axios_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_axios_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_axios"
+        },
+        "devdocs_en_babel": {
+            "filename": "devdocs_en_babel_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_babel_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_babel"
+        },
+        "devdocs_en_backbone": {
+            "filename": "devdocs_en_backbone_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_backbone_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_backbone"
+        },
+        "devdocs_en_bash": {
+            "filename": "devdocs_en_bash_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_bash_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_bash"
+        },
+        "devdocs_en_bazel": {
+            "filename": "devdocs_en_bazel_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_bazel_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_bazel"
+        },
+        "devdocs_en_bluebird": {
+            "filename": "devdocs_en_bluebird_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_bluebird_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_bluebird"
+        },
+        "devdocs_en_bootstrap": {
+            "filename": "devdocs_en_bootstrap_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_bootstrap_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_bootstrap"
+        },
+        "devdocs_en_bottle": {
+            "filename": "devdocs_en_bottle_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_bottle_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_bottle"
+        },
+        "devdocs_en_bower": {
+            "filename": "devdocs_en_bower_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_bower_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_bower"
+        },
+        "devdocs_en_browser-support-tables": {
+            "filename": "devdocs_en_browser-support-tables_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_browser-support-tables_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_browser-support-tables"
+        },
+        "devdocs_en_c": {
+            "filename": "devdocs_en_c_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_c_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_c"
+        },
+        "devdocs_en_cakephp": {
+            "filename": "devdocs_en_cakephp_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_cakephp_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_cakephp"
+        },
+        "devdocs_en_chai": {
+            "filename": "devdocs_en_chai_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_chai_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_chai"
+        },
+        "devdocs_en_chef": {
+            "filename": "devdocs_en_chef_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_chef_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_chef"
+        },
+        "devdocs_en_click": {
+            "filename": "devdocs_en_click_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_click_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_click"
+        },
+        "devdocs_en_clojure": {
+            "filename": "devdocs_en_clojure_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_clojure_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_clojure"
+        },
+        "devdocs_en_cmake": {
+            "filename": "devdocs_en_cmake_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_cmake_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_cmake"
+        },
+        "devdocs_en_codeception": {
+            "filename": "devdocs_en_codeception_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_codeception_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_codeception"
+        },
+        "devdocs_en_codeceptjs": {
+            "filename": "devdocs_en_codeceptjs_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_codeceptjs_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_codeceptjs"
+        },
+        "devdocs_en_codeigniter": {
+            "filename": "devdocs_en_codeigniter_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_codeigniter_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_codeigniter"
+        },
+        "devdocs_en_coffeescript": {
+            "filename": "devdocs_en_coffeescript_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_coffeescript_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_coffeescript"
+        },
+        "devdocs_en_composer": {
+            "filename": "devdocs_en_composer_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_composer_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_composer"
+        },
+        "devdocs_en_cordova": {
+            "filename": "devdocs_en_cordova_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_cordova_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_cordova"
+        },
+        "devdocs_en_cpp": {
+            "filename": "devdocs_en_cpp_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_cpp_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_cpp"
+        },
+        "devdocs_en_crystal": {
+            "filename": "devdocs_en_crystal_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_crystal_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_crystal"
+        },
+        "devdocs_en_css": {
+            "filename": "devdocs_en_css_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_css_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_css"
+        },
+        "devdocs_en_cypress": {
+            "filename": "devdocs_en_cypress_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_cypress_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_cypress"
+        },
+        "devdocs_en_d3": {
+            "filename": "devdocs_en_d3_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_d3_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_d3"
+        },
+        "devdocs_en_d": {
+            "filename": "devdocs_en_d_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_d_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_d"
+        },
+        "devdocs_en_dart": {
+            "filename": "devdocs_en_dart_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_dart_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_dart"
+        },
+        "devdocs_en_date-fns": {
+            "filename": "devdocs_en_date-fns_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_date-fns_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_date-fns"
+        },
+        "devdocs_en_deno": {
+            "filename": "devdocs_en_deno_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_deno_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_deno"
+        },
+        "devdocs_en_django-rest-framework": {
+            "filename": "devdocs_en_django-rest-framework_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_django-rest-framework_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_django-rest-framework"
+        },
+        "devdocs_en_django": {
+            "filename": "devdocs_en_django_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_django_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_django"
+        },
+        "devdocs_en_docker": {
+            "filename": "devdocs_en_docker_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_docker_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_docker"
+        },
+        "devdocs_en_dojo": {
+            "filename": "devdocs_en_dojo_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_dojo_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_dojo"
+        },
+        "devdocs_en_dom": {
+            "filename": "devdocs_en_dom_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_dom_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_dom"
+        },
+        "devdocs_en_drupal": {
+            "filename": "devdocs_en_drupal_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_drupal_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_drupal"
+        },
+        "devdocs_en_duckdb": {
+            "filename": "devdocs_en_duckdb_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_duckdb_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_duckdb"
+        },
+        "devdocs_en_eigen3": {
+            "filename": "devdocs_en_eigen3_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_eigen3_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_eigen3"
+        },
+        "devdocs_en_electron": {
+            "filename": "devdocs_en_electron_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_electron_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_electron"
+        },
+        "devdocs_en_elisp": {
+            "filename": "devdocs_en_elisp_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_elisp_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_elisp"
+        },
+        "devdocs_en_elixir": {
+            "filename": "devdocs_en_elixir_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_elixir_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_elixir"
+        },
+        "devdocs_en_ember": {
+            "filename": "devdocs_en_ember_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_ember_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_ember"
+        },
+        "devdocs_en_enzyme": {
+            "filename": "devdocs_en_enzyme_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_enzyme_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_enzyme"
+        },
+        "devdocs_en_erlang": {
+            "filename": "devdocs_en_erlang_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_erlang_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_erlang"
+        },
+        "devdocs_en_esbuild": {
+            "filename": "devdocs_en_esbuild_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_esbuild_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_esbuild"
+        },
+        "devdocs_en_eslint": {
+            "filename": "devdocs_en_eslint_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_eslint_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_eslint"
+        },
+        "devdocs_en_express": {
+            "filename": "devdocs_en_express_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_express_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_express"
+        },
+        "devdocs_en_falcon": {
+            "filename": "devdocs_en_falcon_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_falcon_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_falcon"
+        },
+        "devdocs_en_fastapi": {
+            "filename": "devdocs_en_fastapi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_fastapi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_fastapi"
+        },
+        "devdocs_en_fish": {
+            "filename": "devdocs_en_fish_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_fish_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_fish"
+        },
+        "devdocs_en_flask": {
+            "filename": "devdocs_en_flask_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_flask_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_flask"
+        },
+        "devdocs_en_flow": {
+            "filename": "devdocs_en_flow_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_flow_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_flow"
+        },
+        "devdocs_en_fluture": {
+            "filename": "devdocs_en_fluture_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_fluture_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_fluture"
+        },
+        "devdocs_en_gcc": {
+            "filename": "devdocs_en_gcc_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_gcc_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_gcc"
+        },
+        "devdocs_en_git": {
+            "filename": "devdocs_en_git_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_git_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_git"
+        },
+        "devdocs_en_gnu-cobol": {
+            "filename": "devdocs_en_gnu-cobol_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_gnu-cobol_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_gnu-cobol"
+        },
+        "devdocs_en_gnu-fortran": {
+            "filename": "devdocs_en_gnu-fortran_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_gnu-fortran_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_gnu-fortran"
+        },
+        "devdocs_en_gnu-make": {
+            "filename": "devdocs_en_gnu-make_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_gnu-make_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_gnu-make"
+        },
+        "devdocs_en_gnuplot": {
+            "filename": "devdocs_en_gnuplot_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_gnuplot_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_gnuplot"
+        },
+        "devdocs_en_go": {
+            "filename": "devdocs_en_go_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_go_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_go"
+        },
+        "devdocs_en_godot": {
+            "filename": "devdocs_en_godot_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_godot_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_godot"
+        },
+        "devdocs_en_graphite": {
+            "filename": "devdocs_en_graphite_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_graphite_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_graphite"
+        },
+        "devdocs_en_groovy": {
+            "filename": "devdocs_en_groovy_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_groovy_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_groovy"
+        },
+        "devdocs_en_grunt": {
+            "filename": "devdocs_en_grunt_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_grunt_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_grunt"
+        },
+        "devdocs_en_gtk": {
+            "filename": "devdocs_en_gtk_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_gtk_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_gtk"
+        },
+        "devdocs_en_hammerspoon": {
+            "filename": "devdocs_en_hammerspoon_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_hammerspoon_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_hammerspoon"
+        },
+        "devdocs_en_handlebars": {
+            "filename": "devdocs_en_handlebars_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_handlebars_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_handlebars"
+        },
+        "devdocs_en_hapi": {
+            "filename": "devdocs_en_hapi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_hapi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_hapi"
+        },
+        "devdocs_en_haproxy": {
+            "filename": "devdocs_en_haproxy_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_haproxy_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_haproxy"
+        },
+        "devdocs_en_haskell": {
+            "filename": "devdocs_en_haskell_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_haskell_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_haskell"
+        },
+        "devdocs_en_haxe": {
+            "filename": "devdocs_en_haxe_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_haxe_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_haxe"
+        },
+        "devdocs_en_homebrew": {
+            "filename": "devdocs_en_homebrew_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_homebrew_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_homebrew"
+        },
+        "devdocs_en_html": {
+            "filename": "devdocs_en_html_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_html_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_html"
+        },
+        "devdocs_en_htmx": {
+            "filename": "devdocs_en_htmx_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_htmx_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_htmx"
+        },
+        "devdocs_en_http": {
+            "filename": "devdocs_en_http_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_http_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_http"
+        },
+        "devdocs_en_i3": {
+            "filename": "devdocs_en_i3_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_i3_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_i3"
+        },
+        "devdocs_en_immutable": {
+            "filename": "devdocs_en_immutable_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_immutable_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_immutable"
+        },
+        "devdocs_en_influxdata": {
+            "filename": "devdocs_en_influxdata_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_influxdata_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_influxdata"
+        },
+        "devdocs_en_jasmine": {
+            "filename": "devdocs_en_jasmine_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jasmine_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jasmine"
+        },
+        "devdocs_en_javascript": {
+            "filename": "devdocs_en_javascript_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_javascript_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_javascript"
+        },
+        "devdocs_en_jekyll": {
+            "filename": "devdocs_en_jekyll_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jekyll_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jekyll"
+        },
+        "devdocs_en_jest": {
+            "filename": "devdocs_en_jest_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jest_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jest"
+        },
+        "devdocs_en_jinja": {
+            "filename": "devdocs_en_jinja_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jinja_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jinja"
+        },
+        "devdocs_en_joi": {
+            "filename": "devdocs_en_joi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_joi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_joi"
+        },
+        "devdocs_en_jq": {
+            "filename": "devdocs_en_jq_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jq_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jq"
+        },
+        "devdocs_en_jquery": {
+            "filename": "devdocs_en_jquery_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jquery_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jquery"
+        },
+        "devdocs_en_jquerymobile": {
+            "filename": "devdocs_en_jquerymobile_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jquerymobile_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jquerymobile"
+        },
+        "devdocs_en_jqueryui": {
+            "filename": "devdocs_en_jqueryui_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jqueryui_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jqueryui"
+        },
+        "devdocs_en_jsdoc": {
+            "filename": "devdocs_en_jsdoc_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_jsdoc_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_jsdoc"
+        },
+        "devdocs_en_julia": {
+            "filename": "devdocs_en_julia_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_julia_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_julia"
+        },
+        "devdocs_en_knockout": {
+            "filename": "devdocs_en_knockout_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_knockout_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_knockout"
+        },
+        "devdocs_en_koa": {
+            "filename": "devdocs_en_koa_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_koa_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_koa"
+        },
+        "devdocs_en_kotlin": {
+            "filename": "devdocs_en_kotlin_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_kotlin_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_kotlin"
+        },
+        "devdocs_en_kubectl": {
+            "filename": "devdocs_en_kubectl_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_kubectl_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_kubectl"
+        },
+        "devdocs_en_kubernetes": {
+            "filename": "devdocs_en_kubernetes_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_kubernetes_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_kubernetes"
+        },
+        "devdocs_en_laravel": {
+            "filename": "devdocs_en_laravel_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_laravel_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_laravel"
+        },
+        "devdocs_en_latex": {
+            "filename": "devdocs_en_latex_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_latex_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_latex"
+        },
+        "devdocs_en_leaflet": {
+            "filename": "devdocs_en_leaflet_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_leaflet_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_leaflet"
+        },
+        "devdocs_en_less": {
+            "filename": "devdocs_en_less_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_less_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_less"
+        },
+        "devdocs_en_liquid": {
+            "filename": "devdocs_en_liquid_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_liquid_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_liquid"
+        },
+        "devdocs_en_lodash": {
+            "filename": "devdocs_en_lodash_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_lodash_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_lodash"
+        },
+        "devdocs_en_love": {
+            "filename": "devdocs_en_love_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_love_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_love"
+        },
+        "devdocs_en_lua": {
+            "filename": "devdocs_en_lua_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_lua_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_lua"
+        },
+        "devdocs_en_man": {
+            "filename": "devdocs_en_man_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_man_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_man"
+        },
+        "devdocs_en_mariadb": {
+            "filename": "devdocs_en_mariadb_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_mariadb_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_mariadb"
+        },
+        "devdocs_en_marionette": {
+            "filename": "devdocs_en_marionette_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_marionette_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_marionette"
+        },
+        "devdocs_en_markdown": {
+            "filename": "devdocs_en_markdown_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_markdown_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_markdown"
+        },
+        "devdocs_en_matplotlib": {
+            "filename": "devdocs_en_matplotlib_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_matplotlib_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_matplotlib"
+        },
+        "devdocs_en_meteor": {
+            "filename": "devdocs_en_meteor_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_meteor_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_meteor"
+        },
+        "devdocs_en_minitest": {
+            "filename": "devdocs_en_minitest_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_minitest_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_minitest"
+        },
+        "devdocs_en_mocha": {
+            "filename": "devdocs_en_mocha_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_mocha_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_mocha"
+        },
+        "devdocs_en_modernizr": {
+            "filename": "devdocs_en_modernizr_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_modernizr_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_modernizr"
+        },
+        "devdocs_en_moment-timezone": {
+            "filename": "devdocs_en_moment-timezone_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_moment-timezone_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_moment-timezone"
+        },
+        "devdocs_en_moment": {
+            "filename": "devdocs_en_moment_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_moment_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_moment"
+        },
+        "devdocs_en_mongoose": {
+            "filename": "devdocs_en_mongoose_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_mongoose_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_mongoose"
+        },
+        "devdocs_en_nextjs": {
+            "filename": "devdocs_en_nextjs_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nextjs_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nextjs"
+        },
+        "devdocs_en_nginx-lua-module": {
+            "filename": "devdocs_en_nginx-lua-module_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nginx-lua-module_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nginx-lua-module"
+        },
+        "devdocs_en_nginx": {
+            "filename": "devdocs_en_nginx_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nginx_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nginx"
+        },
+        "devdocs_en_nim": {
+            "filename": "devdocs_en_nim_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nim_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nim"
+        },
+        "devdocs_en_nix": {
+            "filename": "devdocs_en_nix_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nix_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nix"
+        },
+        "devdocs_en_node": {
+            "filename": "devdocs_en_node_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_node_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_node"
+        },
+        "devdocs_en_nokogiri": {
+            "filename": "devdocs_en_nokogiri_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nokogiri_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nokogiri"
+        },
+        "devdocs_en_npm": {
+            "filename": "devdocs_en_npm_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_npm_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_npm"
+        },
+        "devdocs_en_numpy": {
+            "filename": "devdocs_en_numpy_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_numpy_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_numpy"
+        },
+        "devdocs_en_nushell": {
+            "filename": "devdocs_en_nushell_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_nushell_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_nushell"
+        },
+        "devdocs_en_ocaml": {
+            "filename": "devdocs_en_ocaml_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_ocaml_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_ocaml"
+        },
+        "devdocs_en_octave": {
+            "filename": "devdocs_en_octave_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_octave_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_octave"
+        },
+        "devdocs_en_opengl": {
+            "filename": "devdocs_en_opengl_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_opengl_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_opengl"
+        },
+        "devdocs_en_openjdk": {
+            "filename": "devdocs_en_openjdk_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_openjdk_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_openjdk"
+        },
+        "devdocs_en_openlayers": {
+            "filename": "devdocs_en_openlayers_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_openlayers_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "devdocs_en_openlayers"
+        },
+        "devdocs_en_opentsdb": {
+            "filename": "devdocs_en_opentsdb_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_opentsdb_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_opentsdb"
+        },
+        "devdocs_en_padrino": {
+            "filename": "devdocs_en_padrino_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_padrino_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_padrino"
+        },
+        "devdocs_en_pandas": {
+            "filename": "devdocs_en_pandas_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_pandas_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_pandas"
+        },
+        "devdocs_en_perl": {
+            "filename": "devdocs_en_perl_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_perl_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_perl"
+        },
+        "devdocs_en_phalcon": {
+            "filename": "devdocs_en_phalcon_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_phalcon_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_phalcon"
+        },
+        "devdocs_en_phaser": {
+            "filename": "devdocs_en_phaser_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_phaser_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_phaser"
+        },
+        "devdocs_en_phoenix": {
+            "filename": "devdocs_en_phoenix_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_phoenix_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_phoenix"
+        },
+        "devdocs_en_php": {
+            "filename": "devdocs_en_php_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_php_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_php"
+        },
+        "devdocs_en_phpunit": {
+            "filename": "devdocs_en_phpunit_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_phpunit_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_phpunit"
+        },
+        "devdocs_en_playwright": {
+            "filename": "devdocs_en_playwright_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_playwright_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_playwright"
+        },
+        "devdocs_en_point-cloud-library": {
+            "filename": "devdocs_en_point-cloud-library_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_point-cloud-library_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_point-cloud-library"
+        },
+        "devdocs_en_pony": {
+            "filename": "devdocs_en_pony_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_pony_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_pony"
+        },
+        "devdocs_en_postgresql": {
+            "filename": "devdocs_en_postgresql_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_postgresql_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_postgresql"
+        },
+        "devdocs_en_prettier": {
+            "filename": "devdocs_en_prettier_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_prettier_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_prettier"
+        },
+        "devdocs_en_pug": {
+            "filename": "devdocs_en_pug_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_pug_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_pug"
+        },
+        "devdocs_en_puppeteer": {
+            "filename": "devdocs_en_puppeteer_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_puppeteer_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_puppeteer"
+        },
+        "devdocs_en_pygame": {
+            "filename": "devdocs_en_pygame_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_pygame_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_pygame"
+        },
+        "devdocs_en_python": {
+            "filename": "devdocs_en_python_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_python_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_python"
+        },
+        "devdocs_en_pytorch": {
+            "filename": "devdocs_en_pytorch_2025-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_pytorch_2025-04.zim",
+            "date": "2025-04",
+            "lib_id": "devdocs_en_pytorch"
+        },
+        "devdocs_en_q": {
+            "filename": "devdocs_en_q_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_q_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_q"
+        },
+        "devdocs_en_qt": {
+            "filename": "devdocs_en_qt_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_qt_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "devdocs_en_qt"
+        },
+        "devdocs_en_qunit": {
+            "filename": "devdocs_en_qunit_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_qunit_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_qunit"
+        },
+        "devdocs_en_r": {
+            "filename": "devdocs_en_r_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_r_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_r"
+        },
+        "devdocs_en_rails": {
+            "filename": "devdocs_en_rails_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_rails_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_rails"
+        },
+        "devdocs_en_ramda": {
+            "filename": "devdocs_en_ramda_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_ramda_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_ramda"
+        },
+        "devdocs_en_react-bootstrap": {
+            "filename": "devdocs_en_react-bootstrap_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_react-bootstrap_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_react-bootstrap"
+        },
+        "devdocs_en_react-native": {
+            "filename": "devdocs_en_react-native_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_react-native_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_react-native"
+        },
+        "devdocs_en_react-router": {
+            "filename": "devdocs_en_react-router_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_react-router_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_react-router"
+        },
+        "devdocs_en_react": {
+            "filename": "devdocs_en_react_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_react_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_react"
+        },
+        "devdocs_en_reactivex": {
+            "filename": "devdocs_en_reactivex_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_reactivex_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_reactivex"
+        },
+        "devdocs_en_redis": {
+            "filename": "devdocs_en_redis_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_redis_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_redis"
+        },
+        "devdocs_en_redux": {
+            "filename": "devdocs_en_redux_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_redux_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_redux"
+        },
+        "devdocs_en_relay": {
+            "filename": "devdocs_en_relay_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_relay_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_relay"
+        },
+        "devdocs_en_requests": {
+            "filename": "devdocs_en_requests_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_requests_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_requests"
+        },
+        "devdocs_en_requirejs": {
+            "filename": "devdocs_en_requirejs_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_requirejs_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_requirejs"
+        },
+        "devdocs_en_rethinkdb": {
+            "filename": "devdocs_en_rethinkdb_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_rethinkdb_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_rethinkdb"
+        },
+        "devdocs_en_ruby": {
+            "filename": "devdocs_en_ruby_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_ruby_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_ruby"
+        },
+        "devdocs_en_rust": {
+            "filename": "devdocs_en_rust_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_rust_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_rust"
+        },
+        "devdocs_en_rxjs": {
+            "filename": "devdocs_en_rxjs_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_rxjs_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_rxjs"
+        },
+        "devdocs_en_saltstack": {
+            "filename": "devdocs_en_saltstack_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_saltstack_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_saltstack"
+        },
+        "devdocs_en_sanctuary-def": {
+            "filename": "devdocs_en_sanctuary-def_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sanctuary-def_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_sanctuary-def"
+        },
+        "devdocs_en_sanctuary-type-classes": {
+            "filename": "devdocs_en_sanctuary-type-classes_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sanctuary-type-classes_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_sanctuary-type-classes"
+        },
+        "devdocs_en_sanctuary": {
+            "filename": "devdocs_en_sanctuary_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sanctuary_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_sanctuary"
+        },
+        "devdocs_en_sass": {
+            "filename": "devdocs_en_sass_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sass_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_sass"
+        },
+        "devdocs_en_scala": {
+            "filename": "devdocs_en_scala_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_scala_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_scala"
+        },
+        "devdocs_en_scikit-image": {
+            "filename": "devdocs_en_scikit-image_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_scikit-image_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_scikit-image"
+        },
+        "devdocs_en_scikit-learn": {
+            "filename": "devdocs_en_scikit-learn_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_scikit-learn_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_scikit-learn"
+        },
+        "devdocs_en_sequelize": {
+            "filename": "devdocs_en_sequelize_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sequelize_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_sequelize"
+        },
+        "devdocs_en_sinon": {
+            "filename": "devdocs_en_sinon_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sinon_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_sinon"
+        },
+        "devdocs_en_socketio": {
+            "filename": "devdocs_en_socketio_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_socketio_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_socketio"
+        },
+        "devdocs_en_spring-boot": {
+            "filename": "devdocs_en_spring-boot_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_spring-boot_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_spring-boot"
+        },
+        "devdocs_en_sqlite": {
+            "filename": "devdocs_en_sqlite_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_sqlite_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_sqlite"
+        },
+        "devdocs_en_statsmodels": {
+            "filename": "devdocs_en_statsmodels_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_statsmodels_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_statsmodels"
+        },
+        "devdocs_en_svelte": {
+            "filename": "devdocs_en_svelte_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_svelte_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_svelte"
+        },
+        "devdocs_en_svg": {
+            "filename": "devdocs_en_svg_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_svg_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_svg"
+        },
+        "devdocs_en_symfony": {
+            "filename": "devdocs_en_symfony_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_symfony_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_symfony"
+        },
+        "devdocs_en_tailwindcss": {
+            "filename": "devdocs_en_tailwindcss_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_tailwindcss_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_tailwindcss"
+        },
+        "devdocs_en_tcl-tk": {
+            "filename": "devdocs_en_tcl-tk_2025-07.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_tcl-tk_2025-07.zim",
+            "date": "2025-07",
+            "lib_id": "devdocs_en_tcl-tk"
+        },
+        "devdocs_en_tensorflow-cpp": {
+            "filename": "devdocs_en_tensorflow-cpp_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_tensorflow-cpp_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_tensorflow-cpp"
+        },
+        "devdocs_en_tensorflow": {
+            "filename": "devdocs_en_tensorflow_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_tensorflow_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devdocs_en_tensorflow"
+        },
+        "devdocs_en_terraform": {
+            "filename": "devdocs_en_terraform_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_terraform_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_terraform"
+        },
+        "devdocs_en_threejs": {
+            "filename": "devdocs_en_threejs_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_threejs_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "devdocs_en_threejs"
+        },
+        "devdocs_en_trio": {
+            "filename": "devdocs_en_trio_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_trio_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_trio"
+        },
+        "devdocs_en_twig": {
+            "filename": "devdocs_en_twig_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_twig_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_twig"
+        },
+        "devdocs_en_typescript": {
+            "filename": "devdocs_en_typescript_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_typescript_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_typescript"
+        },
+        "devdocs_en_underscore": {
+            "filename": "devdocs_en_underscore_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_underscore_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_underscore"
+        },
+        "devdocs_en_vagrant": {
+            "filename": "devdocs_en_vagrant_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vagrant_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vagrant"
+        },
+        "devdocs_en_varnish": {
+            "filename": "devdocs_en_varnish_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_varnish_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_varnish"
+        },
+        "devdocs_en_vite": {
+            "filename": "devdocs_en_vite_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vite_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vite"
+        },
+        "devdocs_en_vitest": {
+            "filename": "devdocs_en_vitest_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vitest_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vitest"
+        },
+        "devdocs_en_vue-router": {
+            "filename": "devdocs_en_vue-router_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vue-router_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vue-router"
+        },
+        "devdocs_en_vue": {
+            "filename": "devdocs_en_vue_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vue_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vue"
+        },
+        "devdocs_en_vueuse": {
+            "filename": "devdocs_en_vueuse_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vueuse_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vueuse"
+        },
+        "devdocs_en_vuex": {
+            "filename": "devdocs_en_vuex_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vuex_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vuex"
+        },
+        "devdocs_en_vulkan": {
+            "filename": "devdocs_en_vulkan_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_vulkan_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_vulkan"
+        },
+        "devdocs_en_wagtail": {
+            "filename": "devdocs_en_wagtail_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_wagtail_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_wagtail"
+        },
+        "devdocs_en_web-extensions": {
+            "filename": "devdocs_en_web-extensions_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_web-extensions_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_web-extensions"
+        },
+        "devdocs_en_webpack": {
+            "filename": "devdocs_en_webpack_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_webpack_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_webpack"
+        },
+        "devdocs_en_werkzeug": {
+            "filename": "devdocs_en_werkzeug_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_werkzeug_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_werkzeug"
+        },
+        "devdocs_en_wordpress": {
+            "filename": "devdocs_en_wordpress_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_wordpress_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_wordpress"
+        },
+        "devdocs_en_xslt-xpath": {
+            "filename": "devdocs_en_xslt-xpath_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_xslt-xpath_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_xslt-xpath"
+        },
+        "devdocs_en_yarn": {
+            "filename": "devdocs_en_yarn_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_yarn_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_yarn"
+        },
+        "devdocs_en_yii": {
+            "filename": "devdocs_en_yii_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_yii_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_yii"
+        },
+        "devdocs_en_zig": {
+            "filename": "devdocs_en_zig_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/devdocs/devdocs_en_zig_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "devdocs_en_zig"
+        },
+        "freecodecamp_en_all": {
+            "filename": "freecodecamp_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/freecodecamp/freecodecamp_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "freecodecamp_en_all"
+        },
+        "freecodecamp_en_coding-interview-prep": {
+            "filename": "freecodecamp_en_coding-interview-prep_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/freecodecamp/freecodecamp_en_coding-interview-prep_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "freecodecamp_en_coding-interview-prep"
+        },
+        "freecodecamp_en_javascript-algorithms-and-data-structures": {
+            "filename": "freecodecamp_en_javascript-algorithms-and-data-structures_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/freecodecamp/freecodecamp_en_javascript-algorithms-and-data-structures_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "freecodecamp_en_javascript-algorithms-and-data-structures"
+        },
+        "freecodecamp_en_project-euler": {
+            "filename": "freecodecamp_en_project-euler_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/freecodecamp/freecodecamp_en_project-euler_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "freecodecamp_en_project-euler"
+        },
+        "freecodecamp_en_rosetta-code": {
+            "filename": "freecodecamp_en_rosetta-code_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/freecodecamp/freecodecamp_en_rosetta-code_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "freecodecamp_en_rosetta-code"
+        },
+        "ifixit_en_all": {
+            "filename": "ifixit_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/ifixit/ifixit_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "ifixit_en_all"
+        },
+        "libretexts.org_en_bio": {
+            "filename": "libretexts.org_en_bio_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_bio_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "libretexts.org_en_bio"
+        },
+        "libretexts.org_en_biz": {
+            "filename": "libretexts.org_en_biz_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_biz_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_biz"
+        },
+        "libretexts.org_en_chem": {
+            "filename": "libretexts.org_en_chem_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_chem_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "libretexts.org_en_chem"
+        },
+        "libretexts.org_en_eng": {
+            "filename": "libretexts.org_en_eng_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_eng_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "libretexts.org_en_eng"
+        },
+        "libretexts.org_en_geo": {
+            "filename": "libretexts.org_en_geo_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_geo_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_geo"
+        },
+        "libretexts.org_en_human": {
+            "filename": "libretexts.org_en_human_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_human_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "libretexts.org_en_human"
+        },
+        "libretexts.org_en_k12": {
+            "filename": "libretexts.org_en_k12_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_k12_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_k12"
+        },
+        "libretexts.org_en_math": {
+            "filename": "libretexts.org_en_math_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_math_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_math"
+        },
+        "libretexts.org_en_med": {
+            "filename": "libretexts.org_en_med_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_med_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "libretexts.org_en_med"
+        },
+        "libretexts.org_en_phys": {
+            "filename": "libretexts.org_en_phys_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_phys_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_phys"
+        },
+        "libretexts.org_en_socialsci": {
+            "filename": "libretexts.org_en_socialsci_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_socialsci_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "libretexts.org_en_socialsci"
+        },
+        "libretexts.org_en_stats": {
+            "filename": "libretexts.org_en_stats_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_stats_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_stats"
+        },
+        "libretexts.org_en_workforce": {
+            "filename": "libretexts.org_en_workforce_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/libretexts/libretexts.org_en_workforce_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "libretexts.org_en_workforce"
+        },
+        "phzh_core-english-one_en": {
+            "filename": "phzh_core-english-one_en_2022-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/mooc/phzh_core-english-one_en_2022-01.zim",
+            "date": "2022-01",
+            "lib_id": "phzh_core-english-one_en"
+        },
+        "allthetropes_en_all_maxi": {
+            "filename": "allthetropes_en_all_maxi_2025-07.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/allthetropes_en_all_maxi_2025-07.zim",
+            "date": "2025-07",
+            "lib_id": "allthetropes_en_all_maxi"
+        },
+        "alpinelinux_en_all_maxi": {
+            "filename": "alpinelinux_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/alpinelinux_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "alpinelinux_en_all_maxi"
+        },
+        "appropedia_en_all_maxi": {
+            "filename": "appropedia_en_all_maxi_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/appropedia_en_all_maxi_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "appropedia_en_all_maxi"
+        },
+        "archlinux_en_all_maxi": {
+            "filename": "archlinux_en_all_maxi_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/archlinux_en_all_maxi_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "archlinux_en_all_maxi"
+        },
+        "artofproblemsolving_en_all_maxi": {
+            "filename": "artofproblemsolving_en_all_maxi_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/artofproblemsolving_en_all_maxi_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "artofproblemsolving_en_all_maxi"
+        },
+        "artofproblemsolving_en_all_nopic": {
+            "filename": "artofproblemsolving_en_all_nopic_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/artofproblemsolving_en_all_nopic_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "artofproblemsolving_en_all_nopic"
+        },
+        "bitcoin_en_all_maxi": {
+            "filename": "bitcoin_en_all_maxi_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/bitcoin_en_all_maxi_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "bitcoin_en_all_maxi"
+        },
+        "bitcoin_en_all_nopic": {
+            "filename": "bitcoin_en_all_nopic_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/bitcoin_en_all_nopic_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "bitcoin_en_all_nopic"
+        },
+        "bogleheads_en_all_maxi": {
+            "filename": "bogleheads_en_all_maxi_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/bogleheads_en_all_maxi_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "bogleheads_en_all_maxi"
+        },
+        "bulbagarden_en_all_maxi": {
+            "filename": "bulbagarden_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/bulbagarden_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bulbagarden_en_all_maxi"
+        },
+        "bulbagarden_en_all_nopic": {
+            "filename": "bulbagarden_en_all_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/bulbagarden_en_all_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bulbagarden_en_all_nopic"
+        },
+        "chopin.lib.uchicago.edu_en_all": {
+            "filename": "chopin.lib.uchicago.edu_en_all_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/chopin.lib.uchicago.edu_en_all_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "chopin.lib.uchicago.edu_en_all"
+        },
+        "citizendium.org_en_all_maxi": {
+            "filename": "citizendium.org_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/citizendium.org_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "citizendium.org_en_all_maxi"
+        },
+        "crashcourse_en_all": {
+            "filename": "crashcourse_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/crashcourse_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "crashcourse_en_all"
+        },
+        "dandwiki_en_all_maxi": {
+            "filename": "dandwiki_en_all_maxi_2025-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/dandwiki_en_all_maxi_2025-04.zim",
+            "date": "2025-04",
+            "lib_id": "dandwiki_en_all_maxi"
+        },
+        "dandwiki_en_all_nopic": {
+            "filename": "dandwiki_en_all_nopic_2025-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/dandwiki_en_all_nopic_2025-04.zim",
+            "date": "2025-04",
+            "lib_id": "dandwiki_en_all_nopic"
+        },
+        "diksha-std5ssc_en": {
+            "filename": "diksha-std5ssc_en_2020-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/diksha-std5ssc_en_2020-11.zim",
+            "date": "2020-11",
+            "lib_id": "diksha-std5ssc_en"
+        },
+        "edutechwiki_en_all_maxi": {
+            "filename": "edutechwiki_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/edutechwiki_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "edutechwiki_en_all_maxi"
+        },
+        "energypedia_en_all_maxi": {
+            "filename": "energypedia_en_all_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/energypedia_en_all_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "energypedia_en_all_maxi"
+        },
+        "energypedia_en_all_nopic": {
+            "filename": "energypedia_en_all_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/energypedia_en_all_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "energypedia_en_all_nopic"
+        },
+        "evageeks_en_all_maxi": {
+            "filename": "evageeks_en_all_maxi_2022-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/evageeks_en_all_maxi_2022-11.zim",
+            "date": "2022-11",
+            "lib_id": "evageeks_en_all_maxi"
+        },
+        "explainxkcd_en_all_maxi": {
+            "filename": "explainxkcd_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/explainxkcd_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "explainxkcd_en_all_maxi"
+        },
+        "finiki_en_all_maxi": {
+            "filename": "finiki_en_all_maxi_2024-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/finiki_en_all_maxi_2024-06.zim",
+            "date": "2024-06",
+            "lib_id": "finiki_en_all_maxi"
+        },
+        "footballdatabase.com_en_all": {
+            "filename": "footballdatabase.com_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/footballdatabase.com_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "footballdatabase.com_en_all"
+        },
+        "frackinuniverse_en_all_maxi": {
+            "filename": "frackinuniverse_en_all_maxi_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/frackinuniverse_en_all_maxi_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "frackinuniverse_en_all_maxi"
+        },
+        "gentoo_en_all_maxi": {
+            "filename": "gentoo_en_all_maxi_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/gentoo_en_all_maxi_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "gentoo_en_all_maxi"
+        },
+        "gentoo_en_all_nopic": {
+            "filename": "gentoo_en_all_nopic_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/gentoo_en_all_nopic_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "gentoo_en_all_nopic"
+        },
+        "granbluefantasy_en_all_maxi": {
+            "filename": "granbluefantasy_en_all_maxi_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/granbluefantasy_en_all_maxi_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "granbluefantasy_en_all_maxi"
+        },
+        "granbluefantasy_en_all_nopic": {
+            "filename": "granbluefantasy_en_all_nopic_2021-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/granbluefantasy_en_all_nopic_2021-03.zim",
+            "date": "2021-03",
+            "lib_id": "granbluefantasy_en_all_nopic"
+        },
+        "hitchwiki_en_all_maxi": {
+            "filename": "hitchwiki_en_all_maxi_2023-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/hitchwiki_en_all_maxi_2023-01.zim",
+            "date": "2023-01",
+            "lib_id": "hitchwiki_en_all_maxi"
+        },
+        "hitchwiki_en_all_nopic": {
+            "filename": "hitchwiki_en_all_nopic_2023-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/hitchwiki_en_all_nopic_2023-01.zim",
+            "date": "2023-01",
+            "lib_id": "hitchwiki_en_all_nopic"
+        },
+        "ibanezwiki_en_all_maxi": {
+            "filename": "ibanezwiki_en_all_maxi_2024-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/ibanezwiki_en_all_maxi_2024-06.zim",
+            "date": "2024-06",
+            "lib_id": "ibanezwiki_en_all_maxi"
+        },
+        "installgentoo_en_all_maxi": {
+            "filename": "installgentoo_en_all_maxi_2019-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/installgentoo_en_all_maxi_2019-09.zim",
+            "date": "2019-09",
+            "lib_id": "installgentoo_en_all_maxi"
+        },
+        "installgentoo_en_all_nopic": {
+            "filename": "installgentoo_en_all_nopic_2019-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/installgentoo_en_all_nopic_2019-09.zim",
+            "date": "2019-09",
+            "lib_id": "installgentoo_en_all_nopic"
+        },
+        "khanacademy_en_all": {
+            "filename": "khanacademy_en_all_2023-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/khanacademy_en_all_2023-03.zim",
+            "date": "2023-03",
+            "lib_id": "khanacademy_en_all"
+        },
+        "librepathology_en_all_maxi": {
+            "filename": "librepathology_en_all_maxi_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/librepathology_en_all_maxi_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "librepathology_en_all_maxi"
+        },
+        "mdwiki_en_all": {
+            "filename": "mdwiki_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/mdwiki_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "mdwiki_en_all"
+        },
+        "mdwiki_en_all_maxi": {
+            "filename": "mdwiki_en_all_maxi_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/mdwiki_en_all_maxi_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "mdwiki_en_all_maxi"
+        },
+        "mediawiki_en_all": {
+            "filename": "mediawiki_en_all_2023-07.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/mediawiki_en_all_2023-07.zim",
+            "date": "2023-07",
+            "lib_id": "mediawiki_en_all"
+        },
+        "metakgp_en_all_maxi": {
+            "filename": "metakgp_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/metakgp_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "metakgp_en_all_maxi"
+        },
+        "metakgp_en_all_nopic": {
+            "filename": "metakgp_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/metakgp_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "metakgp_en_all_nopic"
+        },
+        "minecraftwiki_en_all_maxi": {
+            "filename": "minecraftwiki_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/minecraftwiki_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "minecraftwiki_en_all_maxi"
+        },
+        "neos-wiki_en_all_maxi": {
+            "filename": "neos-wiki_en_all_maxi_2023-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/neos-wiki_en_all_maxi_2023-01.zim",
+            "date": "2023-01",
+            "lib_id": "neos-wiki_en_all_maxi"
+        },
+        "neos-wiki_en_all_nopic": {
+            "filename": "neos-wiki_en_all_nopic_2023-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/neos-wiki_en_all_nopic_2023-01.zim",
+            "date": "2023-01",
+            "lib_id": "neos-wiki_en_all_nopic"
+        },
+        "openstreetmap-wiki_en_all_maxi": {
+            "filename": "openstreetmap-wiki_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/openstreetmap-wiki_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "openstreetmap-wiki_en_all_maxi"
+        },
+        "openstreetmap-wiki_en_all_nopic": {
+            "filename": "openstreetmap-wiki_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/openstreetmap-wiki_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "openstreetmap-wiki_en_all_nopic"
+        },
+        "openzim_en_all_maxi": {
+            "filename": "openzim_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/openzim_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "openzim_en_all_maxi"
+        },
+        "openzim_en_all_nopic": {
+            "filename": "openzim_en_all_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/openzim_en_all_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "openzim_en_all_nopic"
+        },
+        "pokemonwiki_en_all_maxi": {
+            "filename": "pokemonwiki_en_all_maxi_2024-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/pokemonwiki_en_all_maxi_2024-06.zim",
+            "date": "2024-06",
+            "lib_id": "pokemonwiki_en_all_maxi"
+        },
+        "postmarketos_en_all_maxi": {
+            "filename": "postmarketos_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/postmarketos_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "postmarketos_en_all_maxi"
+        },
+        "proofwiki_en_all_maxi": {
+            "filename": "proofwiki_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/proofwiki_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "proofwiki_en_all_maxi"
+        },
+        "proofwiki_en_all_nopic": {
+            "filename": "proofwiki_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/proofwiki_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "proofwiki_en_all_nopic"
+        },
+        "prunelle_en_budding-authors": {
+            "filename": "prunelle_en_budding-authors_2025-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/prunelle_en_budding-authors_2025-02.zim",
+            "date": "2025-02",
+            "lib_id": "prunelle_en_budding-authors"
+        },
+        "prunelle_en_draw-your-african-story": {
+            "filename": "prunelle_en_draw-your-african-story_2025-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/prunelle_en_draw-your-african-story_2025-02.zim",
+            "date": "2025-02",
+            "lib_id": "prunelle_en_draw-your-african-story"
+        },
+        "prunelle_en_interactive-books": {
+            "filename": "prunelle_en_interactive-books_2025-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/prunelle_en_interactive-books_2025-02.zim",
+            "date": "2025-02",
+            "lib_id": "prunelle_en_interactive-books"
+        },
+        "rationalwiki_en_all_maxi": {
+            "filename": "rationalwiki_en_all_maxi_2025-05.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/rationalwiki_en_all_maxi_2025-05.zim",
+            "date": "2025-05",
+            "lib_id": "rationalwiki_en_all_maxi"
+        },
+        "rationalwiki_en_all_nopic": {
+            "filename": "rationalwiki_en_all_nopic_2025-05.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/rationalwiki_en_all_nopic_2025-05.zim",
+            "date": "2025-05",
+            "lib_id": "rationalwiki_en_all_nopic"
+        },
+        "restarters_en_all_maxi": {
+            "filename": "restarters_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/restarters_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "restarters_en_all_maxi"
+        },
+        "rimworldwiki_en_all_maxi": {
+            "filename": "rimworldwiki_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/rimworldwiki_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "rimworldwiki_en_all_maxi"
+        },
+        "riskofrain2_en_all_maxi": {
+            "filename": "riskofrain2_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/riskofrain2_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "riskofrain2_en_all_maxi"
+        },
+        "skin-of-color-society_en_all": {
+            "filename": "skin-of-color-society_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/skin-of-color-society_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "skin-of-color-society_en_all"
+        },
+        "stardewvalleywiki_en_all": {
+            "filename": "stardewvalleywiki_en_all_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/stardewvalleywiki_en_all_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "stardewvalleywiki_en_all"
+        },
+        "termux_en_all_maxi": {
+            "filename": "termux_en_all_maxi_2022-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/termux_en_all_maxi_2022-12.zim",
+            "date": "2022-12",
+            "lib_id": "termux_en_all_maxi"
+        },
+        "thalesdoc_en_all": {
+            "filename": "thalesdoc_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/thalesdoc_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "thalesdoc_en_all"
+        },
+        "the_infosphere_en_all_maxi": {
+            "filename": "the_infosphere_en_all_maxi_2022-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/the_infosphere_en_all_maxi_2022-01.zim",
+            "date": "2022-01",
+            "lib_id": "the_infosphere_en_all_maxi"
+        },
+        "theworldfactbook_en_all": {
+            "filename": "theworldfactbook_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/theworldfactbook_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "theworldfactbook_en_all"
+        },
+        "usda-2015_en": {
+            "filename": "usda-2015_en_2025-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/usda-2015_en_2025-04.zim",
+            "date": "2025-04",
+            "lib_id": "usda-2015_en"
+        },
+        "westeros_en_all": {
+            "filename": "westeros_en_all_2018-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/westeros_en_all_2018-09.zim",
+            "date": "2018-09",
+            "lib_id": "westeros_en_all"
+        },
+        "whitewolfwiki_en_all_maxi": {
+            "filename": "whitewolfwiki_en_all_maxi_2024-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/whitewolfwiki_en_all_maxi_2024-06.zim",
+            "date": "2024-06",
+            "lib_id": "whitewolfwiki_en_all_maxi"
+        },
+        "wikem_en_all_maxi": {
+            "filename": "wikem_en_all_maxi_2021-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikem_en_all_maxi_2021-02.zim",
+            "date": "2021-02",
+            "lib_id": "wikem_en_all_maxi"
+        },
+        "wikem_en_all_nopic": {
+            "filename": "wikem_en_all_nopic_2021-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikem_en_all_nopic_2021-02.zim",
+            "date": "2021-02",
+            "lib_id": "wikem_en_all_nopic"
+        },
+        "wikiciv_en_all_maxi": {
+            "filename": "wikiciv_en_all_maxi_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikiciv_en_all_maxi_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "wikiciv_en_all_maxi"
+        },
+        "wikispecies_en_all_maxi": {
+            "filename": "wikispecies_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikispecies_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikispecies_en_all_maxi"
+        },
+        "wikispecies_en_all_nopic": {
+            "filename": "wikispecies_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikispecies_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikispecies_en_all_nopic"
+        },
+        "wikisummaries_en_all_maxi": {
+            "filename": "wikisummaries_en_all_maxi_2021-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikisummaries_en_all_maxi_2021-04.zim",
+            "date": "2021-04",
+            "lib_id": "wikisummaries_en_all_maxi"
+        },
+        "wikisummaries_en_all_nopic": {
+            "filename": "wikisummaries_en_all_nopic_2021-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikisummaries_en_all_nopic_2021-04.zim",
+            "date": "2021-04",
+            "lib_id": "wikisummaries_en_all_nopic"
+        },
+        "wikitech_en_all_maxi": {
+            "filename": "wikitech_en_all_maxi_2024-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/wikitech_en_all_maxi_2024-06.zim",
+            "date": "2024-06",
+            "lib_id": "wikitech_en_all_maxi"
+        },
+        "zdoom_en_all_maxi": {
+            "filename": "zdoom_en_all_maxi_2023-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zdoom_en_all_maxi_2023-01.zim",
+            "date": "2023-01",
+            "lib_id": "zdoom_en_all_maxi"
+        },
+        "zdoom_en_all_nopic": {
+            "filename": "zdoom_en_all_nopic_2023-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zdoom_en_all_nopic_2023-01.zim",
+            "date": "2023-01",
+            "lib_id": "zdoom_en_all_nopic"
+        },
+        "zimgit-food-preparation_en": {
+            "filename": "zimgit-food-preparation_en_2025-04.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zimgit-food-preparation_en_2025-04.zim",
+            "date": "2025-04",
+            "lib_id": "zimgit-food-preparation_en"
+        },
+        "zimgit-knots_en": {
+            "filename": "zimgit-knots_en_2024-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zimgit-knots_en_2024-08.zim",
+            "date": "2024-08",
+            "lib_id": "zimgit-knots_en"
+        },
+        "zimgit-medicine_en": {
+            "filename": "zimgit-medicine_en_2024-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zimgit-medicine_en_2024-08.zim",
+            "date": "2024-08",
+            "lib_id": "zimgit-medicine_en"
+        },
+        "zimgit-post-disaster_en": {
+            "filename": "zimgit-post-disaster_en_2024-05.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zimgit-post-disaster_en_2024-05.zim",
+            "date": "2024-05",
+            "lib_id": "zimgit-post-disaster_en"
+        },
+        "zimgit-water_en": {
+            "filename": "zimgit-water_en_2024-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/other/zimgit-water_en_2024-08.zim",
+            "date": "2024-08",
+            "lib_id": "zimgit-water_en"
+        },
+        "phet_en_all": {
+            "filename": "phet_en_all_2025-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/phet/phet_en_all_2025-03.zim",
+            "date": "2025-03",
+            "lib_id": "phet_en_all"
+        },
+        "3dprinting.stackexchange.com_en_all": {
+            "filename": "3dprinting.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/3dprinting.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "3dprinting.stackexchange.com_en_all"
+        },
+        "academia.stackexchange.com_en_all": {
+            "filename": "academia.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/academia.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "academia.stackexchange.com_en_all"
+        },
+        "ai.stackexchange.com_en_all": {
+            "filename": "ai.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/ai.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "ai.stackexchange.com_en_all"
+        },
+        "alcohol.stackexchange.com_en_all": {
+            "filename": "alcohol.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/alcohol.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "alcohol.stackexchange.com_en_all"
+        },
+        "android.stackexchange.com_en_all": {
+            "filename": "android.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/android.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "android.stackexchange.com_en_all"
+        },
+        "anime.stackexchange.com_en_all": {
+            "filename": "anime.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/anime.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "anime.stackexchange.com_en_all"
+        },
+        "apple.stackexchange.com_en_all": {
+            "filename": "apple.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/apple.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "apple.stackexchange.com_en_all"
+        },
+        "arduino.stackexchange.com_en_all": {
+            "filename": "arduino.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/arduino.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "arduino.stackexchange.com_en_all"
+        },
+        "askubuntu.com_en_all": {
+            "filename": "askubuntu.com_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/askubuntu.com_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "askubuntu.com_en_all"
+        },
+        "astronomy.stackexchange.com_en_all": {
+            "filename": "astronomy.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/astronomy.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "astronomy.stackexchange.com_en_all"
+        },
+        "aviation.stackexchange.com_en_all": {
+            "filename": "aviation.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/aviation.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "aviation.stackexchange.com_en_all"
+        },
+        "bicycles.stackexchange.com_en_all": {
+            "filename": "bicycles.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/bicycles.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bicycles.stackexchange.com_en_all"
+        },
+        "bioacoustics.stackexchange.com_en_all": {
+            "filename": "bioacoustics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/bioacoustics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bioacoustics.stackexchange.com_en_all"
+        },
+        "bioinformatics.stackexchange.com_en_all": {
+            "filename": "bioinformatics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/bioinformatics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bioinformatics.stackexchange.com_en_all"
+        },
+        "biology.stackexchange.com_en_all": {
+            "filename": "biology.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/biology.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "biology.stackexchange.com_en_all"
+        },
+        "bitcoin.stackexchange.com_en_all": {
+            "filename": "bitcoin.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/bitcoin.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bitcoin.stackexchange.com_en_all"
+        },
+        "blender.stackexchange.com_en_all": {
+            "filename": "blender.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/blender.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "blender.stackexchange.com_en_all"
+        },
+        "boardgames.stackexchange.com_en_all": {
+            "filename": "boardgames.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/boardgames.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "boardgames.stackexchange.com_en_all"
+        },
+        "bricks.stackexchange.com_en_all": {
+            "filename": "bricks.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/bricks.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "bricks.stackexchange.com_en_all"
+        },
+        "buddhism.stackexchange.com_en_all": {
+            "filename": "buddhism.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/buddhism.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "buddhism.stackexchange.com_en_all"
+        },
+        "cardano.stackexchange.com_en_all": {
+            "filename": "cardano.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/cardano.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "cardano.stackexchange.com_en_all"
+        },
+        "chemistry.stackexchange.com_en_all": {
+            "filename": "chemistry.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/chemistry.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "chemistry.stackexchange.com_en_all"
+        },
+        "chess.stackexchange.com_en_all": {
+            "filename": "chess.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/chess.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "chess.stackexchange.com_en_all"
+        },
+        "christianity.stackexchange.com_en_all": {
+            "filename": "christianity.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/christianity.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "christianity.stackexchange.com_en_all"
+        },
+        "civicrm.stackexchange.com_en_all": {
+            "filename": "civicrm.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/civicrm.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "civicrm.stackexchange.com_en_all"
+        },
+        "codegolf.stackexchange.com_en_all": {
+            "filename": "codegolf.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/codegolf.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "codegolf.stackexchange.com_en_all"
+        },
+        "codereview.stackexchange.com_en_all": {
+            "filename": "codereview.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/codereview.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "codereview.stackexchange.com_en_all"
+        },
+        "coffee.stackexchange.com_en_all": {
+            "filename": "coffee.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/coffee.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "coffee.stackexchange.com_en_all"
+        },
+        "communitybuilding.stackexchange.com_en_all": {
+            "filename": "communitybuilding.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/communitybuilding.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "communitybuilding.stackexchange.com_en_all"
+        },
+        "computergraphics.stackexchange.com_en_all": {
+            "filename": "computergraphics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/computergraphics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "computergraphics.stackexchange.com_en_all"
+        },
+        "conlang.stackexchange.com_en_all": {
+            "filename": "conlang.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/conlang.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "conlang.stackexchange.com_en_all"
+        },
+        "cooking.stackexchange.com_en_all": {
+            "filename": "cooking.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/cooking.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "cooking.stackexchange.com_en_all"
+        },
+        "craftcms.stackexchange.com_en_all": {
+            "filename": "craftcms.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/craftcms.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "craftcms.stackexchange.com_en_all"
+        },
+        "crafts.stackexchange.com_en_all": {
+            "filename": "crafts.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/crafts.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "crafts.stackexchange.com_en_all"
+        },
+        "crypto.stackexchange.com_en_all": {
+            "filename": "crypto.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/crypto.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "crypto.stackexchange.com_en_all"
+        },
+        "cs.stackexchange.com_en_all": {
+            "filename": "cs.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/cs.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "cs.stackexchange.com_en_all"
+        },
+        "cseducators.stackexchange.com_en_all": {
+            "filename": "cseducators.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/cseducators.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "cseducators.stackexchange.com_en_all"
+        },
+        "cstheory.stackexchange.com_en_all": {
+            "filename": "cstheory.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/cstheory.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "cstheory.stackexchange.com_en_all"
+        },
+        "datascience.stackexchange.com_en_all": {
+            "filename": "datascience.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/datascience.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "datascience.stackexchange.com_en_all"
+        },
+        "dba.stackexchange.com_en_all": {
+            "filename": "dba.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/dba.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "dba.stackexchange.com_en_all"
+        },
+        "devops.stackexchange.com_en_all": {
+            "filename": "devops.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/devops.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "devops.stackexchange.com_en_all"
+        },
+        "diy.stackexchange.com_en_all": {
+            "filename": "diy.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/diy.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "diy.stackexchange.com_en_all"
+        },
+        "drones.stackexchange.com_en_all": {
+            "filename": "drones.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/drones.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "drones.stackexchange.com_en_all"
+        },
+        "drupal.stackexchange.com_en_all": {
+            "filename": "drupal.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/drupal.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "drupal.stackexchange.com_en_all"
+        },
+        "dsp.stackexchange.com_en_all": {
+            "filename": "dsp.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/dsp.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "dsp.stackexchange.com_en_all"
+        },
+        "earthscience.stackexchange.com_en_all": {
+            "filename": "earthscience.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/earthscience.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "earthscience.stackexchange.com_en_all"
+        },
+        "ebooks.stackexchange.com_en_all": {
+            "filename": "ebooks.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/ebooks.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "ebooks.stackexchange.com_en_all"
+        },
+        "economics.stackexchange.com_en_all": {
+            "filename": "economics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/economics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "economics.stackexchange.com_en_all"
+        },
+        "electronics.stackexchange.com_en_all": {
+            "filename": "electronics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/electronics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "electronics.stackexchange.com_en_all"
+        },
+        "elementaryos.stackexchange.com_en_all": {
+            "filename": "elementaryos.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/elementaryos.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "elementaryos.stackexchange.com_en_all"
+        },
+        "ell.stackexchange.com_en_all": {
+            "filename": "ell.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/ell.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "ell.stackexchange.com_en_all"
+        },
+        "emacs.stackexchange.com_en_all": {
+            "filename": "emacs.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/emacs.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "emacs.stackexchange.com_en_all"
+        },
+        "engineering.stackexchange.com_en_all": {
+            "filename": "engineering.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/engineering.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "engineering.stackexchange.com_en_all"
+        },
+        "english.stackexchange.com_en_all": {
+            "filename": "english.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/english.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "english.stackexchange.com_en_all"
+        },
+        "eosio.stackexchange.com_en_all": {
+            "filename": "eosio.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/eosio.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "eosio.stackexchange.com_en_all"
+        },
+        "ethereum.stackexchange.com_en_all": {
+            "filename": "ethereum.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/ethereum.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "ethereum.stackexchange.com_en_all"
+        },
+        "expatriates.stackexchange.com_en_all": {
+            "filename": "expatriates.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/expatriates.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "expatriates.stackexchange.com_en_all"
+        },
+        "expressionengine.stackexchange.com_en_all": {
+            "filename": "expressionengine.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/expressionengine.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "expressionengine.stackexchange.com_en_all"
+        },
+        "fitness.stackexchange.com_en_all": {
+            "filename": "fitness.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/fitness.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "fitness.stackexchange.com_en_all"
+        },
+        "freelancing.stackexchange.com_en_all": {
+            "filename": "freelancing.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/freelancing.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "freelancing.stackexchange.com_en_all"
+        },
+        "gamedev.stackexchange.com_en_all": {
+            "filename": "gamedev.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/gamedev.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "gamedev.stackexchange.com_en_all"
+        },
+        "gaming.stackexchange.com_en_all": {
+            "filename": "gaming.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/gaming.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "gaming.stackexchange.com_en_all"
+        },
+        "gardening.stackexchange.com_en_all": {
+            "filename": "gardening.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/gardening.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "gardening.stackexchange.com_en_all"
+        },
+        "genai.stackexchange.com_en_all": {
+            "filename": "genai.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/genai.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "genai.stackexchange.com_en_all"
+        },
+        "genealogy.stackexchange.com_en_all": {
+            "filename": "genealogy.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/genealogy.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "genealogy.stackexchange.com_en_all"
+        },
+        "gis.stackexchange.com_en_all": {
+            "filename": "gis.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/gis.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "gis.stackexchange.com_en_all"
+        },
+        "graphicdesign.stackexchange.com_en_all": {
+            "filename": "graphicdesign.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/graphicdesign.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "graphicdesign.stackexchange.com_en_all"
+        },
+        "ham.stackexchange.com_en_all": {
+            "filename": "ham.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/ham.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "ham.stackexchange.com_en_all"
+        },
+        "hardwarerecs.stackexchange.com_en_all": {
+            "filename": "hardwarerecs.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/hardwarerecs.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "hardwarerecs.stackexchange.com_en_all"
+        },
+        "hermeneutics.stackexchange.com_en_all": {
+            "filename": "hermeneutics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/hermeneutics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "hermeneutics.stackexchange.com_en_all"
+        },
+        "hinduism.stackexchange.com_en_all": {
+            "filename": "hinduism.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/hinduism.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "hinduism.stackexchange.com_en_all"
+        },
+        "history.stackexchange.com_en_all": {
+            "filename": "history.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/history.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "history.stackexchange.com_en_all"
+        },
+        "homebrew.stackexchange.com_en_all": {
+            "filename": "homebrew.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/homebrew.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "homebrew.stackexchange.com_en_all"
+        },
+        "hsm.stackexchange.com_en_all": {
+            "filename": "hsm.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/hsm.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "hsm.stackexchange.com_en_all"
+        },
+        "interpersonal.stackexchange.com_en_all": {
+            "filename": "interpersonal.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/interpersonal.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "interpersonal.stackexchange.com_en_all"
+        },
+        "iot.stackexchange.com_en_all": {
+            "filename": "iot.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/iot.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "iot.stackexchange.com_en_all"
+        },
+        "iota.stackexchange.com_en_all": {
+            "filename": "iota.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/iota.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "iota.stackexchange.com_en_all"
+        },
+        "islam.stackexchange.com_en_all": {
+            "filename": "islam.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/islam.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "islam.stackexchange.com_en_all"
+        },
+        "joomla.stackexchange.com_en_all": {
+            "filename": "joomla.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/joomla.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "joomla.stackexchange.com_en_all"
+        },
+        "judaism.stackexchange.com_en_all": {
+            "filename": "judaism.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/judaism.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "judaism.stackexchange.com_en_all"
+        },
+        "langdev.stackexchange.com_en_all": {
+            "filename": "langdev.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/langdev.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "langdev.stackexchange.com_en_all"
+        },
+        "languagelearning.stackexchange.com_en_all": {
+            "filename": "languagelearning.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/languagelearning.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "languagelearning.stackexchange.com_en_all"
+        },
+        "law.stackexchange.com_en_all": {
+            "filename": "law.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/law.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "law.stackexchange.com_en_all"
+        },
+        "lifehacks.stackexchange.com_en_all": {
+            "filename": "lifehacks.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/lifehacks.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "lifehacks.stackexchange.com_en_all"
+        },
+        "linguistics.stackexchange.com_en_all": {
+            "filename": "linguistics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/linguistics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "linguistics.stackexchange.com_en_all"
+        },
+        "literature.stackexchange.com_en_all": {
+            "filename": "literature.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/literature.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "literature.stackexchange.com_en_all"
+        },
+        "magento.stackexchange.com_en_all": {
+            "filename": "magento.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/magento.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "magento.stackexchange.com_en_all"
+        },
+        "martialarts.stackexchange.com_en_all": {
+            "filename": "martialarts.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/martialarts.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "martialarts.stackexchange.com_en_all"
+        },
+        "math.stackexchange.com_en_all": {
+            "filename": "math.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/math.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "math.stackexchange.com_en_all"
+        },
+        "matheducators.stackexchange.com_en_all": {
+            "filename": "matheducators.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/matheducators.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "matheducators.stackexchange.com_en_all"
+        },
+        "mathematica.stackexchange.com_en_all": {
+            "filename": "mathematica.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/mathematica.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "mathematica.stackexchange.com_en_all"
+        },
+        "mathoverflow.net_en_all": {
+            "filename": "mathoverflow.net_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/mathoverflow.net_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "mathoverflow.net_en_all"
+        },
+        "mattermodeling.stackexchange.com_en_all": {
+            "filename": "mattermodeling.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/mattermodeling.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "mattermodeling.stackexchange.com_en_all"
+        },
+        "mechanics.stackexchange.com_en_all": {
+            "filename": "mechanics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/mechanics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "mechanics.stackexchange.com_en_all"
+        },
+        "medicalsciences.stackexchange.com_en_all": {
+            "filename": "medicalsciences.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/medicalsciences.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "medicalsciences.stackexchange.com_en_all"
+        },
+        "monero.stackexchange.com_en_all": {
+            "filename": "monero.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/monero.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "monero.stackexchange.com_en_all"
+        },
+        "money.stackexchange.com_en_all": {
+            "filename": "money.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/money.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "money.stackexchange.com_en_all"
+        },
+        "movies.stackexchange.com_en_all": {
+            "filename": "movies.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/movies.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "movies.stackexchange.com_en_all"
+        },
+        "music.stackexchange.com_en_all": {
+            "filename": "music.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/music.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "music.stackexchange.com_en_all"
+        },
+        "musicfans.stackexchange.com_en_all": {
+            "filename": "musicfans.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/musicfans.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "musicfans.stackexchange.com_en_all"
+        },
+        "mythology.stackexchange.com_en_all": {
+            "filename": "mythology.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/mythology.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "mythology.stackexchange.com_en_all"
+        },
+        "networkengineering.stackexchange.com_en_all": {
+            "filename": "networkengineering.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/networkengineering.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "networkengineering.stackexchange.com_en_all"
+        },
+        "opendata.stackexchange.com_en_all": {
+            "filename": "opendata.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/opendata.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "opendata.stackexchange.com_en_all"
+        },
+        "opensource.stackexchange.com_en_all": {
+            "filename": "opensource.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/opensource.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "opensource.stackexchange.com_en_all"
+        },
+        "or.stackexchange.com_en_all": {
+            "filename": "or.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/or.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "or.stackexchange.com_en_all"
+        },
+        "outdoors.stackexchange.com_en_all": {
+            "filename": "outdoors.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/outdoors.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "outdoors.stackexchange.com_en_all"
+        },
+        "parenting.stackexchange.com_en_all": {
+            "filename": "parenting.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/parenting.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "parenting.stackexchange.com_en_all"
+        },
+        "patents.stackexchange.com_en_all": {
+            "filename": "patents.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/patents.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "patents.stackexchange.com_en_all"
+        },
+        "pets.stackexchange.com_en_all": {
+            "filename": "pets.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/pets.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "pets.stackexchange.com_en_all"
+        },
+        "philosophy.stackexchange.com_en_all": {
+            "filename": "philosophy.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/philosophy.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "philosophy.stackexchange.com_en_all"
+        },
+        "photo.stackexchange.com_en_all": {
+            "filename": "photo.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/photo.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "photo.stackexchange.com_en_all"
+        },
+        "physics.stackexchange.com_en_all": {
+            "filename": "physics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/physics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "physics.stackexchange.com_en_all"
+        },
+        "pm.stackexchange.com_en_all": {
+            "filename": "pm.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/pm.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "pm.stackexchange.com_en_all"
+        },
+        "poker.stackexchange.com_en_all": {
+            "filename": "poker.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/poker.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "poker.stackexchange.com_en_all"
+        },
+        "politics.stackexchange.com_en_all": {
+            "filename": "politics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/politics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "politics.stackexchange.com_en_all"
+        },
+        "proofassistants.stackexchange.com_en_all": {
+            "filename": "proofassistants.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/proofassistants.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "proofassistants.stackexchange.com_en_all"
+        },
+        "psychology.stackexchange.com_en_all": {
+            "filename": "psychology.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/psychology.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "psychology.stackexchange.com_en_all"
+        },
+        "puzzling.stackexchange.com_en_all": {
+            "filename": "puzzling.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/puzzling.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "puzzling.stackexchange.com_en_all"
+        },
+        "quant.stackexchange.com_en_all": {
+            "filename": "quant.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/quant.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "quant.stackexchange.com_en_all"
+        },
+        "quantumcomputing.stackexchange.com_en_all": {
+            "filename": "quantumcomputing.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/quantumcomputing.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "quantumcomputing.stackexchange.com_en_all"
+        },
+        "raspberrypi.stackexchange.com_en_all": {
+            "filename": "raspberrypi.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/raspberrypi.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "raspberrypi.stackexchange.com_en_all"
+        },
+        "retrocomputing.stackexchange.com_en_all": {
+            "filename": "retrocomputing.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/retrocomputing.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "retrocomputing.stackexchange.com_en_all"
+        },
+        "reverseengineering.stackexchange.com_en_all": {
+            "filename": "reverseengineering.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/reverseengineering.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "reverseengineering.stackexchange.com_en_all"
+        },
+        "robotics.stackexchange.com_en_all": {
+            "filename": "robotics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/robotics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "robotics.stackexchange.com_en_all"
+        },
+        "rpg.stackexchange.com_en_all": {
+            "filename": "rpg.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/rpg.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "rpg.stackexchange.com_en_all"
+        },
+        "salesforce.stackexchange.com_en_all": {
+            "filename": "salesforce.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/salesforce.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "salesforce.stackexchange.com_en_all"
+        },
+        "scicomp.stackexchange.com_en_all": {
+            "filename": "scicomp.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/scicomp.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "scicomp.stackexchange.com_en_all"
+        },
+        "scifi.stackexchange.com_en_all": {
+            "filename": "scifi.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/scifi.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "scifi.stackexchange.com_en_all"
+        },
+        "security.stackexchange.com_en_all": {
+            "filename": "security.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/security.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "security.stackexchange.com_en_all"
+        },
+        "serverfault.com_en_all": {
+            "filename": "serverfault.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/serverfault.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "serverfault.com_en_all"
+        },
+        "sharepoint.stackexchange.com_en_all": {
+            "filename": "sharepoint.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sharepoint.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "sharepoint.stackexchange.com_en_all"
+        },
+        "sitecore.stackexchange.com_en_all": {
+            "filename": "sitecore.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sitecore.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "sitecore.stackexchange.com_en_all"
+        },
+        "skeptics.stackexchange.com_en_all": {
+            "filename": "skeptics.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/skeptics.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "skeptics.stackexchange.com_en_all"
+        },
+        "softwareengineering.stackexchange.com_en_all": {
+            "filename": "softwareengineering.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/softwareengineering.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "softwareengineering.stackexchange.com_en_all"
+        },
+        "softwarerecs.stackexchange.com_en_all": {
+            "filename": "softwarerecs.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/softwarerecs.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "softwarerecs.stackexchange.com_en_all"
+        },
+        "solana.stackexchange.com_en_all": {
+            "filename": "solana.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/solana.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "solana.stackexchange.com_en_all"
+        },
+        "sound.stackexchange.com_en_all": {
+            "filename": "sound.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sound.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "sound.stackexchange.com_en_all"
+        },
+        "space.stackexchange.com_en_all": {
+            "filename": "space.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/space.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "space.stackexchange.com_en_all"
+        },
+        "sports.stackexchange.com_en_all": {
+            "filename": "sports.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sports.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "sports.stackexchange.com_en_all"
+        },
+        "sqa.stackexchange.com_en_all": {
+            "filename": "sqa.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sqa.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "sqa.stackexchange.com_en_all"
+        },
+        "stackapps.com_en_all": {
+            "filename": "stackapps.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/stackapps.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "stackapps.com_en_all"
+        },
+        "stackoverflow.com_en_all": {
+            "filename": "stackoverflow.com_en_all_2023-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/stackoverflow.com_en_all_2023-11.zim",
+            "date": "2023-11",
+            "lib_id": "stackoverflow.com_en_all"
+        },
+        "stats.stackexchange.com_en_all": {
+            "filename": "stats.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/stats.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "stats.stackexchange.com_en_all"
+        },
+        "stellar.stackexchange.com_en_all": {
+            "filename": "stellar.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/stellar.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "stellar.stackexchange.com_en_all"
+        },
+        "substrate.stackexchange.com_en_all": {
+            "filename": "substrate.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/substrate.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "substrate.stackexchange.com_en_all"
+        },
+        "superuser.com_en_all": {
+            "filename": "superuser.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/superuser.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "superuser.com_en_all"
+        },
+        "sustainability.stackexchange.com_en_all": {
+            "filename": "sustainability.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/sustainability.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "sustainability.stackexchange.com_en_all"
+        },
+        "tex.stackexchange.com_en_all": {
+            "filename": "tex.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/tex.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "tex.stackexchange.com_en_all"
+        },
+        "tezos.stackexchange.com_en_all": {
+            "filename": "tezos.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/tezos.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "tezos.stackexchange.com_en_all"
+        },
+        "tor.stackexchange.com_en_all": {
+            "filename": "tor.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/tor.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "tor.stackexchange.com_en_all"
+        },
+        "travel.stackexchange.com_en_all": {
+            "filename": "travel.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/travel.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "travel.stackexchange.com_en_all"
+        },
+        "tridion.stackexchange.com_en_all": {
+            "filename": "tridion.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/tridion.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "tridion.stackexchange.com_en_all"
+        },
+        "unix.stackexchange.com_en_all": {
+            "filename": "unix.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/unix.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "unix.stackexchange.com_en_all"
+        },
+        "ux.stackexchange.com_en_all": {
+            "filename": "ux.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/ux.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "ux.stackexchange.com_en_all"
+        },
+        "vegetarianism.stackexchange.com_en_all": {
+            "filename": "vegetarianism.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/vegetarianism.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "vegetarianism.stackexchange.com_en_all"
+        },
+        "vi.stackexchange.com_en_all": {
+            "filename": "vi.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/vi.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "vi.stackexchange.com_en_all"
+        },
+        "video.stackexchange.com_en_all": {
+            "filename": "video.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/video.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "video.stackexchange.com_en_all"
+        },
+        "webapps.stackexchange.com_en_all": {
+            "filename": "webapps.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/webapps.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "webapps.stackexchange.com_en_all"
+        },
+        "webmasters.stackexchange.com_en_all": {
+            "filename": "webmasters.stackexchange.com_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/webmasters.stackexchange.com_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "webmasters.stackexchange.com_en_all"
+        },
+        "woodworking.stackexchange.com_en_all": {
+            "filename": "woodworking.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/woodworking.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "woodworking.stackexchange.com_en_all"
+        },
+        "wordpress.stackexchange.com_en_all": {
+            "filename": "wordpress.stackexchange.com_en_all_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/wordpress.stackexchange.com_en_all_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "wordpress.stackexchange.com_en_all"
+        },
+        "workplace.stackexchange.com_en_all": {
+            "filename": "workplace.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/workplace.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "workplace.stackexchange.com_en_all"
+        },
+        "worldbuilding.stackexchange.com_en_all": {
+            "filename": "worldbuilding.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/worldbuilding.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "worldbuilding.stackexchange.com_en_all"
+        },
+        "writing.stackexchange.com_en_all": {
+            "filename": "writing.stackexchange.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/stack_exchange/writing.stackexchange.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "writing.stackexchange.com_en_all"
+        },
+        "biologycourses_en_all": {
+            "filename": "biologycourses_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/biologycourses_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "biologycourses_en_all"
+        },
+        "canadian_prepper_bugoutconcepts_en": {
+            "filename": "canadian_prepper_bugoutconcepts_en_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/canadian_prepper_bugoutconcepts_en_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "canadian_prepper_bugoutconcepts_en"
+        },
+        "canadian_prepper_bugoutroll_en": {
+            "filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+            "date": "2025-08",
+            "lib_id": "canadian_prepper_bugoutroll_en"
+        },
+        "canadian_prepper_preppingfood_en": {
+            "filename": "canadian_prepper_preppingfood_en_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/canadian_prepper_preppingfood_en_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "canadian_prepper_preppingfood_en"
+        },
+        "canadian_prepper_winterprepping_en": {
+            "filename": "canadian_prepper_winterprepping_en_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/canadian_prepper_winterprepping_en_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "canadian_prepper_winterprepping_en"
+        },
+        "coreyms_en_django-tutorials": {
+            "filename": "coreyms_en_django-tutorials_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_django-tutorials_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "coreyms_en_django-tutorials"
+        },
+        "coreyms_en_flask-tutorials": {
+            "filename": "coreyms_en_flask-tutorials_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_flask-tutorials_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "coreyms_en_flask-tutorials"
+        },
+        "coreyms_en_git-tutorials": {
+            "filename": "coreyms_en_git-tutorials_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_git-tutorials_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "coreyms_en_git-tutorials"
+        },
+        "coreyms_en_javascript-tutorials": {
+            "filename": "coreyms_en_javascript-tutorials_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_javascript-tutorials_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "coreyms_en_javascript-tutorials"
+        },
+        "coreyms_en_matplotlib-tutorials": {
+            "filename": "coreyms_en_matplotlib-tutorials_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_matplotlib-tutorials_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "coreyms_en_matplotlib-tutorials"
+        },
+        "coreyms_en_python-tutorials": {
+            "filename": "coreyms_en_python-tutorials_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_python-tutorials_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "coreyms_en_python-tutorials"
+        },
+        "coreyms_en_sql-tutorials": {
+            "filename": "coreyms_en_sql-tutorials_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/coreyms_en_sql-tutorials_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "coreyms_en_sql-tutorials"
+        },
+        "genomicseducation_en_all": {
+            "filename": "genomicseducation_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/genomicseducation_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "genomicseducation_en_all"
+        },
+        "lrnselfreliance_en_all": {
+            "filename": "lrnselfreliance_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/lrnselfreliance_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "lrnselfreliance_en_all"
+        },
+        "oer4schools_en_all": {
+            "filename": "oer4schools_en_all_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/oer4schools_en_all_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "oer4schools_en_all"
+        },
+        "project-fuel_en": {
+            "filename": "project-fuel_en_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/project-fuel_en_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "project-fuel_en"
+        },
+        "quickguidesformedicine_en_all": {
+            "filename": "quickguidesformedicine_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/quickguidesformedicine_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "quickguidesformedicine_en_all"
+        },
+        "s2underground_en_all": {
+            "filename": "s2underground_en_all_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/s2underground_en_all_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "s2underground_en_all"
+        },
+        "scienceinthebath_en": {
+            "filename": "scienceinthebath_en_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/scienceinthebath_en_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "scienceinthebath_en"
+        },
+        "studio.blender.org_en_open-movies": {
+            "filename": "studio.blender.org_en_open-movies_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/studio.blender.org_en_open-movies_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "studio.blender.org_en_open-movies"
+        },
+        "urban-prepper_en_all": {
+            "filename": "urban-prepper_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/urban-prepper_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "urban-prepper_en_all"
+        },
+        "voa_learning_en_all": {
+            "filename": "voa_learning_en_all_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/videos/voa_learning_en_all_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "voa_learning_en_all"
+        },
+        "vikidia_en_all_maxi": {
+            "filename": "vikidia_en_all_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/vikidia/vikidia_en_all_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "vikidia_en_all_maxi"
+        },
+        "vikidia_en_all_nopic": {
+            "filename": "vikidia_en_all_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/vikidia/vikidia_en_all_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "vikidia_en_all_nopic"
+        },
+        "wikibooks_en_all_maxi": {
+            "filename": "wikibooks_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikibooks/wikibooks_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikibooks_en_all_maxi"
+        },
+        "wikibooks_en_all_nopic": {
+            "filename": "wikibooks_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikibooks/wikibooks_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikibooks_en_all_nopic"
+        },
+        "wikinews_en_all_maxi": {
+            "filename": "wikinews_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikinews/wikinews_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikinews_en_all_maxi"
+        },
+        "wikinews_en_all_nopic": {
+            "filename": "wikinews_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikinews/wikinews_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikinews_en_all_nopic"
+        },
+        "speedtest_en_blob-mini": {
+            "filename": "speedtest_en_blob-mini_2024-05.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/speedtest_en_blob-mini_2024-05.zim",
+            "date": "2024-05",
+            "lib_id": "speedtest_en_blob-mini"
+        },
+        "speedtest_en_blob": {
+            "filename": "speedtest_en_blob_2024-05.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/speedtest_en_blob_2024-05.zim",
+            "date": "2024-05",
+            "lib_id": "speedtest_en_blob"
+        },
+        "wikipedia_en_100": {
+            "filename": "wikipedia_en_100_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_100_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_100"
+        },
+        "wikipedia_en_100_maxi": {
+            "filename": "wikipedia_en_100_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_100_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_100_maxi"
+        },
+        "wikipedia_en_100_mini": {
+            "filename": "wikipedia_en_100_mini_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_100_mini_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_100_mini"
+        },
+        "wikipedia_en_100_nopic": {
+            "filename": "wikipedia_en_100_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_100_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_100_nopic"
+        },
+        "wikipedia_en_all_maxi": {
+            "filename": "wikipedia_en_all_maxi_2025-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_all_maxi_2025-08.zim",
+            "date": "2025-08",
+            "lib_id": "wikipedia_en_all_maxi"
+        },
+        "wikipedia_en_all_mini": {
+            "filename": "wikipedia_en_all_mini_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_all_mini_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_all_mini"
+        },
+        "wikipedia_en_all_nopic": {
+            "filename": "wikipedia_en_all_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_all_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_all_nopic"
+        },
+        "wikipedia_en_astronomy_maxi": {
+            "filename": "wikipedia_en_astronomy_maxi_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_astronomy_maxi_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "wikipedia_en_astronomy_maxi"
+        },
+        "wikipedia_en_astronomy_nopic": {
+            "filename": "wikipedia_en_astronomy_nopic_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_astronomy_nopic_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "wikipedia_en_astronomy_nopic"
+        },
+        "wikipedia_en_baseball_maxi": {
+            "filename": "wikipedia_en_baseball_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_baseball_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_baseball_maxi"
+        },
+        "wikipedia_en_baseball_nopic": {
+            "filename": "wikipedia_en_baseball_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_baseball_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_baseball_nopic"
+        },
+        "wikipedia_en_basketball_maxi": {
+            "filename": "wikipedia_en_basketball_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_basketball_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_basketball_maxi"
+        },
+        "wikipedia_en_basketball_nopic": {
+            "filename": "wikipedia_en_basketball_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_basketball_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_basketball_nopic"
+        },
+        "wikipedia_en_chemistry_maxi": {
+            "filename": "wikipedia_en_chemistry_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_chemistry_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_chemistry_maxi"
+        },
+        "wikipedia_en_chemistry_mini": {
+            "filename": "wikipedia_en_chemistry_mini_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_chemistry_mini_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_chemistry_mini"
+        },
+        "wikipedia_en_chemistry_nopic": {
+            "filename": "wikipedia_en_chemistry_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_chemistry_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_chemistry_nopic"
+        },
+        "wikipedia_en_climate-change_maxi": {
+            "filename": "wikipedia_en_climate-change_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_climate-change_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_climate-change_maxi"
+        },
+        "wikipedia_en_climate-change_mini": {
+            "filename": "wikipedia_en_climate-change_mini_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_climate-change_mini_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_climate-change_mini"
+        },
+        "wikipedia_en_climate-change_nopic": {
+            "filename": "wikipedia_en_climate-change_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_climate-change_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_climate-change_nopic"
+        },
+        "wikipedia_en_comics_maxi": {
+            "filename": "wikipedia_en_comics_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_comics_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_comics_maxi"
+        },
+        "wikipedia_en_comics_nopic": {
+            "filename": "wikipedia_en_comics_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_comics_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_comics_nopic"
+        },
+        "wikipedia_en_computer_maxi": {
+            "filename": "wikipedia_en_computer_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_computer_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_computer_maxi"
+        },
+        "wikipedia_en_computer_nopic": {
+            "filename": "wikipedia_en_computer_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_computer_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_computer_nopic"
+        },
+        "wikipedia_en_cricket_maxi": {
+            "filename": "wikipedia_en_cricket_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_cricket_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_cricket_maxi"
+        },
+        "wikipedia_en_cricket_nopic": {
+            "filename": "wikipedia_en_cricket_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_cricket_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_cricket_nopic"
+        },
+        "wikipedia_en_football_maxi": {
+            "filename": "wikipedia_en_football_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_football_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_football_maxi"
+        },
+        "wikipedia_en_football_nopic": {
+            "filename": "wikipedia_en_football_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_football_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_football_nopic"
+        },
+        "wikipedia_en_geography_maxi": {
+            "filename": "wikipedia_en_geography_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_geography_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_geography_maxi"
+        },
+        "wikipedia_en_geography_nopic": {
+            "filename": "wikipedia_en_geography_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_geography_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_geography_nopic"
+        },
+        "wikipedia_en_golf_maxi": {
+            "filename": "wikipedia_en_golf_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_golf_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_golf_maxi"
+        },
+        "wikipedia_en_golf_nopic": {
+            "filename": "wikipedia_en_golf_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_golf_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_golf_nopic"
+        },
+        "wikipedia_en_history_maxi": {
+            "filename": "wikipedia_en_history_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_history_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_history_maxi"
+        },
+        "wikipedia_en_history_nopic": {
+            "filename": "wikipedia_en_history_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_history_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_history_nopic"
+        },
+        "wikipedia_en_ice-hockey_maxi": {
+            "filename": "wikipedia_en_ice-hockey_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_ice-hockey_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_ice-hockey_maxi"
+        },
+        "wikipedia_en_ice-hockey_nopic": {
+            "filename": "wikipedia_en_ice-hockey_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_ice-hockey_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_ice-hockey_nopic"
+        },
+        "wikipedia_en_indian-cinema_maxi": {
+            "filename": "wikipedia_en_indian-cinema_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_indian-cinema_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_indian-cinema_maxi"
+        },
+        "wikipedia_en_indian-cinema_nopic": {
+            "filename": "wikipedia_en_indian-cinema_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_indian-cinema_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_indian-cinema_nopic"
+        },
+        "wikipedia_en_knots_maxi": {
+            "filename": "wikipedia_en_knots_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_knots_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_knots_maxi"
+        },
+        "wikipedia_en_mathematics_maxi": {
+            "filename": "wikipedia_en_mathematics_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_mathematics_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_mathematics_maxi"
+        },
+        "wikipedia_en_mathematics_mini": {
+            "filename": "wikipedia_en_mathematics_mini_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_mathematics_mini_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_mathematics_mini"
+        },
+        "wikipedia_en_mathematics_nopic": {
+            "filename": "wikipedia_en_mathematics_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_mathematics_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_mathematics_nopic"
+        },
+        "wikipedia_en_medicine_maxi": {
+            "filename": "wikipedia_en_medicine_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_medicine_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_medicine_maxi"
+        },
+        "wikipedia_en_medicine_mini": {
+            "filename": "wikipedia_en_medicine_mini_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_medicine_mini_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_medicine_mini"
+        },
+        "wikipedia_en_medicine_nopic": {
+            "filename": "wikipedia_en_medicine_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_medicine_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_medicine_nopic"
+        },
+        "wikipedia_en_molcell_maxi": {
+            "filename": "wikipedia_en_molcell_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_molcell_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_molcell_maxi"
+        },
+        "wikipedia_en_molcell_nopic": {
+            "filename": "wikipedia_en_molcell_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_molcell_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_molcell_nopic"
+        },
+        "wikipedia_en_movies_maxi": {
+            "filename": "wikipedia_en_movies_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_movies_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_movies_maxi"
+        },
+        "wikipedia_en_movies_nopic": {
+            "filename": "wikipedia_en_movies_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_movies_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_movies_nopic"
+        },
+        "wikipedia_en_nollywood_maxi": {
+            "filename": "wikipedia_en_nollywood_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_nollywood_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_nollywood_maxi"
+        },
+        "wikipedia_en_physics_maxi": {
+            "filename": "wikipedia_en_physics_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_physics_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_physics_maxi"
+        },
+        "wikipedia_en_physics_mini": {
+            "filename": "wikipedia_en_physics_mini_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_physics_mini_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_physics_mini"
+        },
+        "wikipedia_en_physics_nopic": {
+            "filename": "wikipedia_en_physics_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_physics_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_physics_nopic"
+        },
+        "wikipedia_en_ray-charles_maxi": {
+            "filename": "wikipedia_en_ray-charles_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_ray-charles_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikipedia_en_ray-charles_maxi"
+        },
+        "wikipedia_en_ray-charles_mini": {
+            "filename": "wikipedia_en_ray-charles_mini_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_ray-charles_mini_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikipedia_en_ray-charles_mini"
+        },
+        "wikipedia_en_ray-charles_nopic": {
+            "filename": "wikipedia_en_ray-charles_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_ray-charles_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikipedia_en_ray-charles_nopic"
+        },
+        "wikipedia_en_simple_all_maxi": {
+            "filename": "wikipedia_en_simple_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_simple_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikipedia_en_simple_all_maxi"
+        },
+        "wikipedia_en_simple_all_mini": {
+            "filename": "wikipedia_en_simple_all_mini_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_simple_all_mini_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikipedia_en_simple_all_mini"
+        },
+        "wikipedia_en_simple_all_nopic": {
+            "filename": "wikipedia_en_simple_all_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_simple_all_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikipedia_en_simple_all_nopic"
+        },
+        "wikipedia_en_sociology_maxi": {
+            "filename": "wikipedia_en_sociology_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_sociology_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_sociology_maxi"
+        },
+        "wikipedia_en_sociology_nopic": {
+            "filename": "wikipedia_en_sociology_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_sociology_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_sociology_nopic"
+        },
+        "wikipedia_en_tennis_maxi": {
+            "filename": "wikipedia_en_tennis_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_tennis_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_tennis_maxi"
+        },
+        "wikipedia_en_tennis_nopic": {
+            "filename": "wikipedia_en_tennis_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_tennis_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_tennis_nopic"
+        },
+        "wikipedia_en_top1m_maxi": {
+            "filename": "wikipedia_en_top1m_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_top1m_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_top1m_maxi"
+        },
+        "wikipedia_en_top_maxi": {
+            "filename": "wikipedia_en_top_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_top_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_top_maxi"
+        },
+        "wikipedia_en_top_mini": {
+            "filename": "wikipedia_en_top_mini_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_top_mini_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_top_mini"
+        },
+        "wikipedia_en_top_nopic": {
+            "filename": "wikipedia_en_top_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_top_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikipedia_en_top_nopic"
+        },
+        "wikipedia_en_wp1-0.8_maxi": {
+            "filename": "wikipedia_en_wp1-0.8_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_wp1-0.8_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_wp1-0.8_maxi"
+        },
+        "wikipedia_en_wp1-0.8_nopic": {
+            "filename": "wikipedia_en_wp1-0.8_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_wp1-0.8_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikipedia_en_wp1-0.8_nopic"
+        },
+        "wikiquote_en_all_maxi": {
+            "filename": "wikiquote_en_all_maxi_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikiquote/wikiquote_en_all_maxi_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikiquote_en_all_maxi"
+        },
+        "wikiquote_en_all_nopic": {
+            "filename": "wikiquote_en_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikiquote/wikiquote_en_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wikiquote_en_all_nopic"
+        },
+        "wikisource_en_all_maxi": {
+            "filename": "wikisource_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikisource/wikisource_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikisource_en_all_maxi"
+        },
+        "wikisource_en_all_nopic": {
+            "filename": "wikisource_en_all_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikisource/wikisource_en_all_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikisource_en_all_nopic"
+        },
+        "wikiversity_en_all_maxi": {
+            "filename": "wikiversity_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikiversity/wikiversity_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikiversity_en_all_maxi"
+        },
+        "wikiversity_en_all_nopic": {
+            "filename": "wikiversity_en_all_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikiversity/wikiversity_en_all_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wikiversity_en_all_nopic"
+        },
+        "wikivoyage_en_all_maxi": {
+            "filename": "wikivoyage_en_all_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikivoyage/wikivoyage_en_all_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikivoyage_en_all_maxi"
+        },
+        "wikivoyage_en_all_nopic": {
+            "filename": "wikivoyage_en_all_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikivoyage/wikivoyage_en_all_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikivoyage_en_all_nopic"
+        },
+        "wikivoyage_en_europe_maxi": {
+            "filename": "wikivoyage_en_europe_maxi_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikivoyage/wikivoyage_en_europe_maxi_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikivoyage_en_europe_maxi"
+        },
+        "wikivoyage_en_europe_nopic": {
+            "filename": "wikivoyage_en_europe_nopic_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wikivoyage/wikivoyage_en_europe_nopic_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "wikivoyage_en_europe_nopic"
+        },
+        "wiktionary_en_all_nopic": {
+            "filename": "wiktionary_en_all_nopic_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wiktionary/wiktionary_en_all_nopic_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "wiktionary_en_all_nopic"
+        },
+        "wiktionary_en_simple_all_nopic": {
+            "filename": "wiktionary_en_simple_all_nopic_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/wiktionary/wiktionary_en_simple_all_nopic_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "wiktionary_en_simple_all_nopic"
+        },
+        "100r.co_en_all": {
+            "filename": "100r.co_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/100r.co_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "100r.co_en_all"
+        },
+        "anonymousplanet.org_en_all": {
+            "filename": "anonymousplanet.org_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/anonymousplanet.org_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "anonymousplanet.org_en_all"
+        },
+        "armypubs_en_all": {
+            "filename": "armypubs_en_all_2024-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/armypubs_en_all_2024-12.zim",
+            "date": "2024-12",
+            "lib_id": "armypubs_en_all"
+        },
+        "based.cooking_en_all": {
+            "filename": "based.cooking_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/based.cooking_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "based.cooking_en_all"
+        },
+        "booksdash_en_all": {
+            "filename": "booksdash_en_all_2024-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/booksdash_en_all_2024-06.zim",
+            "date": "2024-06",
+            "lib_id": "booksdash_en_all"
+        },
+        "cd3wdproject.org_en_all": {
+            "filename": "cd3wdproject.org_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/cd3wdproject.org_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "cd3wdproject.org_en_all"
+        },
+        "cheatography.com_en_all": {
+            "filename": "cheatography.com_en_all_2025-07.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/cheatography.com_en_all_2025-07.zim",
+            "date": "2025-07",
+            "lib_id": "cheatography.com_en_all"
+        },
+        "citizensinformation.ie_en_all": {
+            "filename": "citizensinformation.ie_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/citizensinformation.ie_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "citizensinformation.ie_en_all"
+        },
+        "cloudflare.com_en_learning-center": {
+            "filename": "cloudflare.com_en_learning-center_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/cloudflare.com_en_learning-center_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "cloudflare.com_en_learning-center"
+        },
+        "dart.dev_en_all": {
+            "filename": "dart.dev_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/dart.dev_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "dart.dev_en_all"
+        },
+        "devhints.io_en_all": {
+            "filename": "devhints.io_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/devhints.io_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "devhints.io_en_all"
+        },
+        "docs.python.org_en": {
+            "filename": "docs.python.org_en_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/docs.python.org_en_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "docs.python.org_en"
+        },
+        "edu.gcfglobal.org_en_all": {
+            "filename": "edu.gcfglobal.org_en_all_2025-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/edu.gcfglobal.org_en_all_2025-03.zim",
+            "date": "2025-03",
+            "lib_id": "edu.gcfglobal.org_en_all"
+        },
+        "encyclopedie-environnement.org_en": {
+            "filename": "encyclopedie-environnement.org_en_2025-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/encyclopedie-environnement.org_en_2025-06.zim",
+            "date": "2025-06",
+            "lib_id": "encyclopedie-environnement.org_en"
+        },
+        "ethanweed_en_all": {
+            "filename": "ethanweed_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/ethanweed_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "ethanweed_en_all"
+        },
+        "fas-military-medicine_en": {
+            "filename": "fas-military-medicine_en_2025-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/fas-military-medicine_en_2025-06.zim",
+            "date": "2025-06",
+            "lib_id": "fas-military-medicine_en"
+        },
+        "foss.cooking_en_all": {
+            "filename": "foss.cooking_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/foss.cooking_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "foss.cooking_en_all"
+        },
+        "fretmap.app_en_all": {
+            "filename": "fretmap.app_en_all_2024-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/fretmap.app_en_all_2024-10.zim",
+            "date": "2024-10",
+            "lib_id": "fretmap.app_en_all"
+        },
+        "getbootstrap.com_en_all": {
+            "filename": "getbootstrap.com_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/getbootstrap.com_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "getbootstrap.com_en_all"
+        },
+        "ghana-bece-past-questions_en_all": {
+            "filename": "ghana-bece-past-questions_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/ghana-bece-past-questions_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "ghana-bece-past-questions_en_all"
+        },
+        "gobyexample.com_en_all": {
+            "filename": "gobyexample.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/gobyexample.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "gobyexample.com_en_all"
+        },
+        "grimgrains_en_all": {
+            "filename": "grimgrains_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/grimgrains_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "grimgrains_en_all"
+        },
+        "htdp.org_en_all": {
+            "filename": "htdp.org_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/htdp.org_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "htdp.org_en_all"
+        },
+        "incognitocat.me_en_all": {
+            "filename": "incognitocat.me_en_all_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/incognitocat.me_en_all_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "incognitocat.me_en_all"
+        },
+        "internet-encyclopedia-philosophy_en_all": {
+            "filename": "internet-encyclopedia-philosophy_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/internet-encyclopedia-philosophy_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "internet-encyclopedia-philosophy_en_all"
+        },
+        "jeffe.cs.illinois.edu_en_all": {
+            "filename": "jeffe.cs.illinois.edu_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/jeffe.cs.illinois.edu_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "jeffe.cs.illinois.edu_en_all"
+        },
+        "learningstatistics_en_all": {
+            "filename": "learningstatistics_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/learningstatistics_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "learningstatistics_en_all"
+        },
+        "learningstatisticswithr.com_en_all": {
+            "filename": "learningstatisticswithr.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/learningstatisticswithr.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "learningstatisticswithr.com_en_all"
+        },
+        "lesscss.org_en_all": {
+            "filename": "lesscss.org_en_all_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/lesscss.org_en_all_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "lesscss.org_en_all"
+        },
+        "lost-stats.github.io_en_all": {
+            "filename": "lost-stats.github.io_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/lost-stats.github.io_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "lost-stats.github.io_en_all"
+        },
+        "lua.org_en_all": {
+            "filename": "lua.org_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/lua.org_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "lua.org_en_all"
+        },
+        "medlineplus.gov_en_all": {
+            "filename": "medlineplus.gov_en_all_2025-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/medlineplus.gov_en_all_2025-01.zim",
+            "date": "2025-01",
+            "lib_id": "medlineplus.gov_en_all"
+        },
+        "milneopentextbooks.org_en_all": {
+            "filename": "milneopentextbooks.org_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/milneopentextbooks.org_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "milneopentextbooks.org_en_all"
+        },
+        "mspeekenbrink_en_all": {
+            "filename": "mspeekenbrink_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/mspeekenbrink_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "mspeekenbrink_en_all"
+        },
+        "music.dalitio.de_en_all": {
+            "filename": "music.dalitio.de_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/music.dalitio.de_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "music.dalitio.de_en_all"
+        },
+        "mutopiaproject.org_en": {
+            "filename": "mutopiaproject.org_en_2025-09.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/mutopiaproject.org_en_2025-09.zim",
+            "date": "2025-09",
+            "lib_id": "mutopiaproject.org_en"
+        },
+        "ncert-audiobooks_en_all": {
+            "filename": "ncert-audiobooks_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/ncert-audiobooks_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "ncert-audiobooks_en_all"
+        },
+        "nhs.uk_en_medicines": {
+            "filename": "nhs.uk_en_medicines_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "nhs.uk_en_medicines"
+        },
+        "noted.lol_en_all": {
+            "filename": "noted.lol_en_all_2025-10.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/noted.lol_en_all_2025-10.zim",
+            "date": "2025-10",
+            "lib_id": "noted.lol_en_all"
+        },
+        "opendatastructures.org_en_all": {
+            "filename": "opendatastructures.org_en_all_2025-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/opendatastructures.org_en_all_2025-11.zim",
+            "date": "2025-11",
+            "lib_id": "opendatastructures.org_en_all"
+        },
+        "openmusictheory.com_en_all": {
+            "filename": "openmusictheory.com_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/openmusictheory.com_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "openmusictheory.com_en_all"
+        },
+        "peps.python_en_all": {
+            "filename": "peps.python_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/peps.python_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "peps.python_en_all"
+        },
+        "php.net_en_all": {
+            "filename": "php.net_en_all_2024-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/php.net_en_all_2024-08.zim",
+            "date": "2024-08",
+            "lib_id": "php.net_en_all"
+        },
+        "planetmath.org_en_all": {
+            "filename": "planetmath.org_en_all_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/planetmath.org_en_all_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "planetmath.org_en_all"
+        },
+        "publicdomainrecipes.com_en_all": {
+            "filename": "publicdomainrecipes.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/publicdomainrecipes.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "publicdomainrecipes.com_en_all"
+        },
+        "ragajunglism.org_en_all": {
+            "filename": "ragajunglism.org_en_all_2025-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/ragajunglism.org_en_all_2025-08.zim",
+            "date": "2025-08",
+            "lib_id": "ragajunglism.org_en_all"
+        },
+        "smbc-comics.com_en": {
+            "filename": "smbc-comics.com_en_2025-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/smbc-comics.com_en_2025-08.zim",
+            "date": "2025-08",
+            "lib_id": "smbc-comics.com_en"
+        },
+        "stacks.math.columbia.edu_en_all": {
+            "filename": "stacks.math.columbia.edu_en_all_2025-06.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/stacks.math.columbia.edu_en_all_2025-06.zim",
+            "date": "2025-06",
+            "lib_id": "stacks.math.columbia.edu_en_all"
+        },
+        "survivorlibrary.com_en_all": {
+            "filename": "survivorlibrary.com_en_all_2025-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/survivorlibrary.com_en_all_2025-12.zim",
+            "date": "2025-12",
+            "lib_id": "survivorlibrary.com_en_all"
+        },
+        "tomlehrersongs.com_en": {
+            "filename": "tomlehrersongs.com_en_2025-08.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/tomlehrersongs.com_en_2025-08.zim",
+            "date": "2025-08",
+            "lib_id": "tomlehrersongs.com_en"
+        },
+        "tonedear.com_en": {
+            "filename": "tonedear.com_en_2025-07.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/tonedear.com_en_2025-07.zim",
+            "date": "2025-07",
+            "lib_id": "tonedear.com_en"
+        },
+        "unrealircd_en_all_maxi": {
+            "filename": "unrealircd_en_all_maxi_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/unrealircd_en_all_maxi_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "unrealircd_en_all_maxi"
+        },
+        "womenshistory.si.edu_en_all": {
+            "filename": "womenshistory.si.edu_en_all_2025-03.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/womenshistory.si.edu_en_all_2025-03.zim",
+            "date": "2025-03",
+            "lib_id": "womenshistory.si.edu_en_all"
+        },
+        "www.mankier.com_en_all": {
+            "filename": "www.mankier.com_en_all_2026-01.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/www.mankier.com_en_all_2026-01.zim",
+            "date": "2026-01",
+            "lib_id": "www.mankier.com_en_all"
+        },
+        "www.ready.gov_en": {
+            "filename": "www.ready.gov_en_2024-12.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/www.ready.gov_en_2024-12.zim",
+            "date": "2024-12",
+            "lib_id": "www.ready.gov_en"
+        },
+        "wwwnc.cdc.gov_en_all": {
+            "filename": "wwwnc.cdc.gov_en_all_2024-11.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/wwwnc.cdc.gov_en_all_2024-11.zim",
+            "date": "2024-11",
+            "lib_id": "wwwnc.cdc.gov_en_all"
+        },
+        "xkcd.com_en_all": {
+            "filename": "xkcd.com_en_all_2026-02.zim",
+            "url": "https://ftp.fau.de/kiwix/zim/zimit/xkcd.com_en_all_2026-02.zim",
+            "date": "2026-02",
+            "lib_id": "xkcd.com_en_all"
+        }
+    }
+}

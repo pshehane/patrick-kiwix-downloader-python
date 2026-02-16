@@ -1,0 +1,39 @@
+{
+    "exhaustive_survival_manifest": {
+        "Priority 1: Health & Immediate Survival": [
+            "wikipedia_en_medicine_maxi", "zimgit-medicine_en", "medlineplus.gov_en_all",
+            "wikem_en_all_maxi", "zimgit-water_en", "zimgit-post-disaster_en",
+            "www.ready.gov_en", "wwwnc.cdc.gov_en_all", "nhs.uk_en_medicines",
+            "librepathology_en_all_maxi", "quickguidesformedicine_en_all", 
+            "genomicseducation_en_all"
+        ],
+        "Priority 2: Infrastructure, Repair & Food": [
+            "ifixit_en_all", "survivorlibrary.com_en_all", "appropedia_en_all_maxi",
+            "lowtechmagazine.com_en_all", "zimgit-food-preparation_en", "based.cooking_en_all",
+            "foss.cooking_en_all", "publicdomainrecipes.com_en_all", "zimgit-knots_en",
+            "bicycles.stackexchange.com_en_all", "gardening.stackexchange.com_en_all",
+            "diy.stackexchange.com_en_all", "3dprinting.stackexchange.com_en_all",
+            "electronics.stackexchange.com_en_all", "woodworking.stackexchange.com_en_all",
+            "restarters_en_all_maxi", "mechanics.stackexchange.com_en_all",
+            "sustainability.stackexchange.com_en_all", "energypedia_en_all_maxi"
+        ],
+        "Priority 3: Foundation & Education": [
+            "wikipedia_en_all_maxi", "wikibooks_en_all_maxi", "wikisource_en_all_maxi",
+            "wiktionary_en_all_nopic", "libretexts.org_en_math", "libretexts.org_en_phys",
+            "libretexts.org_en_chem", "libretexts.org_en_bio", "libretexts.org_en_eng",
+            "libretexts.org_en_geo", "khanacademy_en_all", "theworldfactbook_en_all",
+            "openstreetmap-wiki_en_all_maxi", "citizendium.org_en_all_maxi",
+            "wikiversity_en_all_maxi", "planetmath.org_en_all"
+        ],
+        "Priority 4: Morale, Lore & Idle Moments": [
+            "xkcd.com_en_all", "explainxkcd_en_all_maxi", "smbc-comics.com_en",
+            "allthetropes_en_all_maxi", "wikisummaries_en_all_maxi", "tomlehrersongs.com_en",
+            "westeros_en_all", "scifi.stackexchange.com_en_all", "movies.stackexchange.com_en_all",
+            "boardgames.stackexchange.com_en_all", "anime.stackexchange.com_en_all",
+            "puzzling.stackexchange.com_en_all", "gaming.stackexchange.com_en_all",
+            "rpg.stackexchange.com_en_all", "writing.stackexchange.com_en_all",
+            "music.stackexchange.com_en_all", "literature.stackexchange.com_en_all",
+            "the_infosphere_en_all_maxi", "studio.blender.org_en_open-movies"
+        ]
+    }
+}
